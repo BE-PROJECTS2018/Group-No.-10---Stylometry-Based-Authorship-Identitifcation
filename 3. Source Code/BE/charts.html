@@ -1,0 +1,253 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  </head>
+<style>
+body {
+    font-family: inherit;
+    background-image: url("background.jpg");
+}
+
+h1{
+	text-shadow: 2px 2px 5px grey;
+}
+
+p{
+	text-shadow: 2px 2px 4px grey;
+}
+
+.sidenav {
+    height: 100%;
+    width: 250px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #818181;
+    display: block;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.main {
+    margin-left: 250px; /* Same as the width of the sidenav */
+    font-size: 18px; /* Increased text to enable scrolling */
+    padding: 0px 10px;
+}
+
+ul
+{
+list-style-type: none;
+}
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+
+<body style="color:white;">
+<div class="sidenav">
+  <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav">
+                <li class="sidebar-brand">
+                    <a href="index.html">
+                        SAI
+                    </a>
+                </li>
+                <li>
+				    
+                    <a href="upload.html">Upload a file</a>
+					
+                </li>
+                <li>
+                    <a href="test.php">Analyse</a>
+                </li>
+                <li>
+                    <a href="#">Comparitive Charts</a>
+                </li>
+                <li>
+                    <a href="about.html">About</a>
+                </li>
+                <li>
+                    <a href="https://ves.ac.in/vesit/contact-us/">Contact</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /#sidebar-wrapper -->
+</div>
+
+<div class="main">
+<div class="container">
+  <h1 style="color:red; text-align: center">Comparative Charts</h1>
+  <div class="row">
+    <div class="col-md-6">
+      <div class="thumbnail">
+        <a href="1.jpg" target="_blank">
+          <img class="img-responsive" src="1.jpg" alt="Model 1">
+          <div class="caption">
+            <p style="text-align: center">ML Based Algorithms using Term Frequency</p>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="thumbnail">
+        <a href="2.jpg" target="_blank">
+          <img class="img-responsive" src="2.jpg" alt="Model 2">
+          <div class="caption">
+            <p style="text-align: center">ML Based Algorithms with PCA using Term Frequency</p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6">
+      <div class="thumbnail">
+        <a href="3.jpg" target="_blank">
+          <img class="img-responsive" src="3.jpg" alt="Model 4">
+          <div class="caption">
+            <p style="text-align: center">ML Based Algorithms with PCA and K-fold validation (n=10)</p>
+          </div>
+        </a>
+      </div>
+    </div>
+
+    <div class="col-md-6">
+      <div class="thumbnail">
+        <a href="4.jpg" target="_blank">
+          <img class="img-responsive" src="4.jpg" alt="Model 5">
+          <div class="caption">
+            <p style="text-align: center">ML Based Algorithms with K-fold validation (n=10)</p>
+          </div>
+        </a>
+      </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+      <div class="thumbnail">
+        <a href="Andrew Lang_840.png" target="_blank">
+          <img class="img-responsive" src="Andrew Lang_840.png" alt="Edmund Goldsmid Document 1">
+          <div class="caption">
+            <p style="text-align: center">Edmund Goldsmid : Document 1992</p>
+          </div>
+        </a>
+      </div>
+    </div>
+
+    <div class="col-md-6">
+      <div class="thumbnail">
+        <a href="Andrew Lang_839.png" target="_blank">
+          <img class="img-responsive" src="Andrew Lang_839.png" alt="Edmund Goldsmid Document 2">
+          <div class="caption">
+            <p style="text-align: center">Edmund Goldsmid : Document 1994</p>
+          </div>
+        </a>
+      </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6">
+      <div class="thumbnail">
+        <a href="Leonardo Da Vinci_672.png" target="_blank">
+          <img class="img-responsive" src="Leonardo Da Vinci_672.png" alt="Edward Bulwer-Lytton">
+          <div class="caption">
+            <p style="text-align: center">Edward Bulwer-Lytton</p>
+          </div>
+        </a>
+      </div>
+    </div>
+
+    <div class="col-md-6">
+      <div class="thumbnail">
+        <a href="Richard Francis Burton_684.png" target="_blank">
+          <img class="img-responsive" src="Richard Francis Burton_684.png" alt="John Burroughs">
+          <div class="caption">
+            <p style="text-align: center">John Burroughs</p>
+          </div>
+        </a>
+      </div>
+    </div>    
+</div>
+<div class="row">
+    <div class="col-md-6">
+      <div class="thumbnail">
+        <a href="Thomas Bulfinch_1653.png" target="_blank">
+          <img class="img-responsive" src="Thomas Bulfinch_1653.png" alt="John Greenleaf Whittier">
+          <div class="caption">
+            <p style="text-align: center">John Greenleaf Whittier</p>
+          </div>
+        </a>
+      </div>
+    </div>
+
+    <div class="col-md-6">
+      <div class="thumbnail">
+        <a href="Wallis Budge_736.png" target="_blank">
+          <img class="img-responsive" src="Wallis Budge_736.png" alt="Martin Anderson">
+          <div class="caption">
+            <p style="text-align: center">Martin Anderson</p>
+          </div>
+        </a>
+      </div>
+    </div>
+</div>
+<div class="row">
+  <!--
+    <div class="col-md-6">
+      <div class="thumbnail">
+        <a href="Willam Prescott_709.png" target="_blank">
+          <img class="img-responsive" src="Willam Prescott_709.png" alt="Willam Prescott">
+          <div class="caption">
+            <p style="text-align: center">Willam Prescott</p>
+          </div>
+        </a>
+      </div>
+    </div>
+-->
+    <div class="col-md-6-push-4">
+      <div class="thumbnail">
+        <a href="barfin.jpg" target="_blank">
+          <img class="img-responsive" src="barfin.jpg" alt="Accuracy Bar Graph">
+          <div class="caption">
+            <p style="text-align: center">Accuracy Bar Graph</p>
+          </div>
+        </a>
+      </div>
+    </div>
+
+  </div>
+  <div class="row">
+    <div class="col-md-8-push-6">
+      <div class="thumbnail">
+        <a href="linefin.jpg" target="_blank">
+          <img class="img-responsive" src="linefin.jpg" alt="Acccuracy Line Graph">
+          <div class="caption">
+            <p style="text-align: center">Accuracy Comparison Line Graph</p>
+          </div>
+        </a>
+      </div>
+    </div>
+</div>
+</div>
+</div>
+ 
+</body>
+</html>

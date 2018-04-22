@@ -1,0 +1,156 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  </head>
+<style>
+body {
+    font-family: inherit;
+    background-image: url("background.jpg");
+}
+
+h1{
+	text-shadow: 2px 2px 5px grey;
+}
+
+p{
+	text-shadow: 2px 2px 4px grey;
+}
+
+.sidenav {
+    height: 100%;
+    width: 250px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #818181;
+    display: block;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.main {
+    margin-left: 250px; /* Same as the width of the sidenav */
+    font-size: 18px; /* Increased text to enable scrolling */
+    padding: 0px 10px;
+}
+
+ul
+{
+list-style-type: none;
+}
+
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+
+<body style="color:white;">
+<div class="sidenav">
+  <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav">
+                <li class="sidebar-brand">
+                    <a href="index.html">
+                        SAI
+                    </a>
+                </li>
+                <li>
+				    
+                    <a href="upload.html">Upload a file</a>
+					
+                </li>
+                <li>
+                    <a href="test.php">Analyse</a>
+                </li>
+                <li>
+                    <a href="charts.html">Comparitive Charts</a>
+                </li>
+                <li>
+                    <a href="#">About</a>
+                </li>
+                <li>
+                    <a href="https://ves.ac.in/vesit/contact-us/">Contact</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /#sidebar-wrapper -->
+</div>
+
+<div class="main">
+<div class="container">
+  <h1 style="color:red; text-align: center">Stylometry Based Authorship Identification</h1>
+  <div class="row">
+    <div class="col-sm-8-pull-4">
+      <div class="thumbnail">
+        <a href="mam.jpg" target="_blank">
+          <img class="img-responsive" src="mam.jpg" alt="Sujata Mam">
+          <div class="caption">
+            <p style="text-align: center">Mrs. Sujata Khedkar - Mentor</p>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="thumbnail">
+        <a href="ansh.jpg" target="_blank">
+          <img class="img-responsive" src="ansh.jpg" alt="Anshul Agarwal">
+          <div class="caption">
+            <p style="text-align: center">Anshul Agarwal</p>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="thumbnail">
+        <a href="shash.jpg" target="_blank">
+          <img class="img-responsive" src="shash.jpg" alt="Shashank Agnihotri">
+          <div class="caption">
+            <p style="text-align: center">Shashank Agnihotri</p>
+          </div>
+        </a>
+      </div>
+    </div>
+    
+</div>
+<div class="row">
+    <div class="col-md-6">
+      <div class="thumbnail">
+        <a href="mah.jpg" target="_blank">
+          <img class="img-responsive" src="mah.jpg" alt="Mahak Pancholi">
+          <div class="caption">
+            <p style="text-align: center">Mahak Pancholi</p>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="thumbnail">
+        <a href="pic.jpg" target="_blank">
+          <img class="img-responsive" src="pic.jpg" alt="Pooja Hande">
+          <div class="caption">
+            <p style="text-align: center">Pooja Hande</p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+ 
+</body>
+</html>
