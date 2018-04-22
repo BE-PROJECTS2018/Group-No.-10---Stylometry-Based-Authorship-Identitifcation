@@ -1,0 +1,153 @@
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Upload</title>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+
+<style>
+input[type=file]{
+	float:left;
+}
+
+body {
+    font-family: inherit;
+    background-image: url("background.jpg");
+}
+h1{
+	text-shadow: 2px 2px 5px grey;
+}
+p{
+	text-shadow: 2px 2px 4px grey;
+}
+.sidenav {
+    height: 100%;
+    width: 250px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #818181;
+    display: block;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.main {
+    margin-left: 250px; /* Same as the width of the sidenav */
+    font-size: 18px; /* Increased text to enable scrolling */
+    padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+}
+
+ul
+{
+list-style-type: none;
+}
+
+</style>
+
+<body style="color:white;">
+<div class="sidenav">
+  <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav">
+                <li class="sidebar-brand">
+                    <a href="index.html">
+                        SAI
+                    </a>
+                </li>
+                <li>
+				    
+                    <a href="#">Upload a file</a>
+					
+                </li>
+                <li>
+                    <a href="test.php">Analyse</a>
+                </li>
+                <li>
+                    <a href="charts.html">Comparitive Charts</a>
+                </li>
+                <li>
+                    <a href="about.html">About</a>
+                </li>
+                <li>
+                    <a href="https://ves.ac.in/vesit/contact-us/">Contact</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /#sidebar-wrapper -->
+</div>
+
+<div class="main">
+		<h1 style="color:red;">Choose a file to test</h1>
+		<hr>
+		<form action="#">
+			<input type="file" name="image" >
+			<button class="btn btn-sm btn-info upload" type="submit">Upload</button>
+			<button type="button" class="btn btn-sm btn-danger cancel">Cancel</button>
+
+			<div class="progress progress-striped active">
+				<div class="progress-bar" style="width:0%"></div>
+			</div>
+		</form>
+	</div><!-- end .container -->
+
+	<script>
+		$('.upload-all').click(function(){
+			//submit all form
+			$('form').submit();
+		});
+		$('.cancel-all').click(function(){
+			//submit all form
+			$('form .cancel').click();
+		});
+		$(document).on('submit','form',function(e){
+			e.preventDefault();
+			$form = $(this);
+			uploadImage($form);
+		});
+		function uploadImage($form){
+			$form.find('.progress-bar').removeClass('progress-bar-success')
+										.removeClass('progress-bar-danger');
+			var formdata = new FormData($form[0]); //formelement
+			var request = new XMLHttpRequest();
+			//progress event...
+			request.upload.addEventListener('progress',function(e){
+				var percent = Math.round(e.loaded/e.total * 100);
+				$form.find('.progress-bar').width(percent+'%').html(percent+'%');
+			});
+			//progress completed load event
+			request.addEventListener('load',function(e){
+				$form.find('.progress-bar').addClass('progress-bar-success').html('upload completed....');
+			});
+			request.open('post', 'server.php');
+			request.send(formdata);
+			$form.on('click','.cancel',function(){
+				request.abort();
+				$form.find('.progress-bar')
+					.addClass('progress-bar-danger')
+					.removeClass('progress-bar-success')
+					.html('upload aborted...');
+			});
+		}
+		//thanks for watching........
+		//code on git........
+		//subscribe, share, like, comment.............
+	</script>
+</body>
+</html>

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title style="color:black">Stylometry Based Authorship Identification</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/simple-sidebar.css" rel="stylesheet">
+
+<style>
+body{
+	background-image: url("background.jpg");
+}
+h1{
+	text-shadow: 2px 2px 5px grey;
+}
+p{
+	text-shadow: 2px 2px 4px grey;
+}
+</style>
+
+</head>
+
+<body style="color:black;">
+
+    <div id="wrapper">
+
+        <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav">
+                <li class="sidebar-brand">
+                    <a href="index.html">
+                        SAI
+                    </a>
+                </li>
+                <li>
+                    <a href="upload.html">Upload a file</a>
+                </li>
+                <li>
+                    <a href="test.php">Analyse</a>
+                </li>
+                <li>
+                    <a href="charts.html">Comparitive Charts</a>
+                </li>
+                <li>
+                    <a href="about.html">About</a>
+                </li>
+                <li>
+                    <a href="https://ves.ac.in/vesit/contact-us/">Contact</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /#sidebar-wrapper -->
+
+        <!-- Page Content -->
+        <div id="page-content-wrapper">
+            <div class="container-fluid">
+                <h1 style="color:red;">Stylometry Based Authorship Identification</h1>
+                <p>Every author has a inate style of writing, use of particular words, particular punctuations, conjunctions etc. Our system identifies these features
+                and uniquely identifies each author after being trained. This system has a great applicability in cyber forensics and social media. </p>
+                <p>Make sure the system is trained on the author trying to be tested.</p>
+                <a href="#menu-toggle" class="btn btn-secondary" id="menu-toggle">Use SAI</a>
+            </div>
+        </div>
+        <!-- /#page-content-wrapper -->
+    </div>
+    <!-- /#wrapper -->
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Menu Toggle Script -->
+    <script>
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+    });
+    </script>
+</body>
+
+</html>

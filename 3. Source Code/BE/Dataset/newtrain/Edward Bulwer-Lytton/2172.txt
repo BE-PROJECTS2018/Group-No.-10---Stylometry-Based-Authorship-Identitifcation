@@ -1,0 +1,2819 @@
+
+
+
+this ebook was produced by dagny, dagnypg@yahoo.com
+                and david widger, widger@cecomet.net
+
+
+
+
+
+ernest maltravers
+
+by edward bulwer lytton
+(lord lytton)
+
+
+
+dedication:
+
+  to
+  the great german people,
+  a race of thinkers and of critics;
+  a foreign but familiar audience,
+  profound in judgment, candid in reproof, generous in appreciation,
+  this work is dedicated
+  by an english author.
+
+
+
+preface to the edition of 1840.
+
+however numerous the works of fiction with which, my dear reader, i have
+trespassed on your attention, i leave published but three, of any
+account, in which the plot has been cast amidst the events, and coloured
+by the manner, of our own times. the first of these, /pelham/, composed
+when i was little more than a boy, has the faults, and perhaps the
+merits, natural to a very early age,--when the novelty itself of life
+quickens the observation,--when we see distinctly, and represent
+vividly, what lies upon the surface of the world,--and when, half
+sympathising with the follies we satirise, there is a gusto in our
+paintings which atones for their exaggeration.  as we grow older we
+observe less, we reflect more; and, like frankenstein, we dissect in
+order to create.
+
+the second novel of the present day,* which, after an interval of some
+years, i submitted to the world, was one i now, for the first time,
+acknowledge, and which (revised and corrected) will be included in this
+series, viz., /godolphin/;--a work devoted to a particular portion of
+society, and the development of a peculiar class of character.  the
+third, which i now reprint, is /ernest maltravers/,** the most mature,
+and, on the whole, the most comprehensive of all that i have hitherto
+written.
+
+* for /the disowned/ is cast in the time of our grandfathers, and /the
+pilgrims of the rhine/ had nothing to do with actual life, and is not,
+therefore, to be called a novel.
+
+** at the date of this preface /night and morning/ had not appeared.
+
+for the original idea, which, with humility, i will venture to call the
+philosophical design of a moral education or apprenticeship, i have left
+it easy to be seen that i am indebted to goethe's /wilhelm meister/.
+but, in /wilhelm meister/, the apprenticeship is rather that of
+theoretical art.  in the more homely plan that i set before myself, the
+apprenticeship is rather that of practical life.  and, with this view,
+it has been especially my study to avoid all those attractions lawful in
+romance, or tales of pure humour or unbridled fancy, attractions that,
+in the language of reviewers, are styled under the head of "most
+striking descriptions," "scenes of extraordinary power," etc.; and are
+derived from violent contrasts and exaggerations pushed into caricature.
+it has been my aim to subdue and tone down the persons introduced, and
+the general agencies of the narrative, into the lights and shadows of
+life as it is.  i do not mean by "life as it is," the vulgar and the
+outward life alone, but life in its spiritual and mystic as well as its
+more visible and fleshly characteristics.  the idea of not only
+describing, but developing character under the ripening influences of
+time and circumstance, is not confined to the apprenticeship of
+maltravers alone, but pervades the progress of cesarini, ferrers, and
+alice darvil.
+
+the original conception of alice is taken from real life--from a person
+i never saw but twice, and then she was no longer young--but whose
+history made on me a deep impression.  her early ignorance and home--her
+first love--the strange and affecting fidelity that she maintained, in
+spite of new ties--her final re-meeting, almost in middle-age, with one
+lost and adored almost in childhood--all this, as shown in the novel, is
+but the imperfect transcript of the true adventures of a living woman.
+
+in regard to maltravers himself, i must own that i have but inadequately
+struggled against the great and obvious difficulty of representing an
+author living in our own times, with whose supposed works or alleged
+genius and those of any one actually existing, the reader can establish
+no identification, and he is therefore either compelled constantly to
+humour the delusion by keeping his imagination on the stretch, or lazily
+driven to confound the author /in/ the book with the author /of/ the
+book.* but i own, also, i fancied, while aware of this objection, and in
+spite of it, that so much not hitherto said might be conveyed with
+advantage through the lips or in the life of an imaginary writer of our
+own time, that i was contented, on the whole, either to task the
+imagination, or submit to the suspicions of the reader.  all that my own
+egotism appropriates in the book are some occasional remarks, the
+natural result of practical experience.  with the life or the character,
+the adventures or the humours, the errors or the good qualities, of
+maltravers himself, i have nothing to do, except as the narrator and
+inventor.
+
+* in some foreign journal i have been much amused by a credulity of this
+latter description, and seen the various adventures of mr. maltravers
+gravely appropriated to the embellishment of my own life, including the
+attachment to the original of poor alice darvil; who now, by the way,
+must be at least seventy years of age, with a grandchild nearly as old
+as myself.
+
+e. b. l.
+
+
+
+a word to the reader
+prefixed to the first edition of 1837.
+
+thou must not, my old and partial friend, look into this work for that
+species of interest which is drawn from stirring adventures and a
+perpetual variety of incident.  to a novel of the present day are
+necessarily forbidden the animation, the excitement, the bustle, the
+pomp, and the stage effect which history affords to romance.  whatever
+merits, in thy gentle eyes, /rienzi/, or /the last days of pompeii/, may
+have possessed, this tale, if it please thee at all, must owe that happy
+fortune to qualities widely different from those which won thy favour to
+pictures of the past.  thou must sober down thine imagination, and
+prepare thyself for a story not dedicated to the narrative of
+extraordinary events--nor the elucidation of the characters of great
+men.  though there is scarcely a page in this work episodical to the
+main design, there may be much that may seem to thee wearisome and
+prolix, if thou wilt not lend thyself, in a kindly spirit, and with a
+generous trust, to the guidance of the author.  in the hero of this tale
+thou wilt find neither a majestic demigod, nor a fascinating demon.  he
+is a man with the weaknesses derived from humanity, with the strength
+that we inherit from the soul; not often obstinate in error, more often
+irresolute in virtue; sometimes too aspiring, sometimes too despondent;
+influenced by the circumstances to which he yet struggles to be
+superior, and changing in character with the changes of time and fate;
+but never wantonly rejecting those great principles by which alone we
+can work the science of life--a desire for the good, a passion for the
+honest, a yearning after the true.  from such principles, experience,
+that severe mentor, teaches us at length the safe and practical
+philosophy which consists of fortitude to bear, serenity to enjoy, and
+faith to look beyond!
+
+it would have led, perhaps, to more striking incidents, and have
+furnished an interest more intense, if i had cast maltravers, the man of
+genius, amidst those fierce but ennobling struggles with poverty and
+want to which genius is so often condemned.  but wealth and lassitude
+have their temptations as well as penury and toil.  and for the rest--i
+have taken much of my tale and many of my characters from real life, and
+would not unnecessarily seek other fountains when the well of truth was
+in my reach.
+
+the author has said his say, he retreats once more into silence and into
+shade; he leaves you alone with the creations he has called to life--the
+representatives of his emotions and his thoughts--the intermediators
+between the individual and the crowd.  children not of the clay, but of
+the spirit, may they be faithful to their origin!--so should they be
+monitors, not loud but deep, of the world into which they are cast,
+struggling against the obstacles that will beset them, for the heritage
+of their parent--the right to survive the grave!
+
+london, august 12th, 1837.
+
+
+
+ernest maltravers.
+
+
+
+book i.
+
+  "youth pastures in a valley of its own:
+   the glare of noon--the rains and winds of heaven
+   mar not the calm yet virgin of all care.
+   but ever with sweet joys it buildeth up
+   the airy halls of life."
+     soph. /trachim/. 144-147.
+
+
+
+chapter i.
+
+  "my meaning in't, i protest, was very honest in the behalf of the
+   maid * * * * yet, who would have suspected an ambush where i was
+   taken?"
+     /all's well that ends well/, act iv. sc. 3.
+
+some four miles distant from one of our northern manufacturing towns, in
+the year 18--, was a wide and desolate common; a more dreary spot it is
+impossible to conceive--the herbage grew up in sickly patches from the
+midst of a black and stony soil.  not a tree was to be seen in the whole
+of the comfortless expanse.  nature herself had seemed to desert the
+solitude, as if scared by the ceaseless din of the neighbouring forges;
+and even art, which presses all things into service, had disdained to
+cull use or beauty from these unpromising demesnes.  there was something
+weird and primeval in the aspect of the place; especially when in the
+long nights of winter you beheld the distant fires and lights which give
+to the vicinity of certain manufactories so preternatural an appearance,
+streaming red and wild over the waste.  so abandoned by man appeared the
+spot, that you found it difficult to imagine that it was only from human
+fires that its bleak and barren desolation was illumined.  for miles
+along the moor you detected no vestige of any habitation; but as you
+approached the verge nearest to the town, you could just perceive at a
+little distance from the main road, by which the common was intersected,
+a small, solitary, and miserable hovel.
+
+within this lonely abode, at the time in which my story opens, were
+seated two persons.  the one was a man of about fifty years of age, and
+in a squalid and wretched garb, which was yet relieved by an affectation
+of ill-assorted finery.  a silk handkerchief, which boasted the ornament
+of a large brooch of false stones, was twisted jauntily round a muscular
+but meagre throat; his tattered breeches were also decorated by buckles,
+one of pinchbeck, and one of steel.  his frame was lean, but broad and
+sinewy, indicative of considerable strength.  his countenance was
+prematurely marked by deep furrows, and his grizzled hair waved over a
+low, rugged, and forbidding brow, on which there hung an everlasting
+frown that no smile from the lips (and the man smiled often) could chase
+away.  it was a face that spoke of long-continued and hardened vice--it
+was one in which the past had written indelible characters.  the brand
+of the hangman could not have stamped it more plainly, nor have more
+unequivocally warned the suspicion of honest or timid men.
+
+he was employed in counting some few and paltry coins, which, though an
+easy matter to ascertain their value, he told and retold, as if the act
+could increase the amount.  "there must be some mistake here, alice," he
+said in a low and muttered tone: "we can't be so low--you know i had two
+pounds in the drawer but monday, and now--alice, you must have stolen
+some of the money--curse you."
+
+the person thus addressed sat at the opposite side of the smouldering
+and sullen fire; she now looked quietly up, and her face singularly
+contrasted that of the man.
+
+she seemed about fifteen years of age, and her complexion was remarkably
+pure and delicate, even despite the sunburnt tinge which her habits of
+toil had brought it.  her auburn hair hung in loose and natural curls
+over her forehead, and its luxuriance was remarkable even in one so
+young.  her countenance was beautiful, nay, even faultless, in its small
+and child-like features, but the expression pained you--it was so
+vacant.  in repose it was almost the expression of an idiot--but when
+she spoke or smiled, or even moved a muscle, the eyes, colour, lips,
+kindled into a life, which proved that the intellect was still there,
+though but imperfectly awakened.
+
+"i did not steal any, father," she said in a quiet voice; "but i should
+like to have taken some, only i knew you would beat me if i did."
+
+"and what do you want money for?"
+
+"to get food when i'm hungered."
+
+"nothing else?"
+
+"i don't know."
+
+the girl paused.--"why don't you let me," she said, after a while, "why
+don't you let me go and work with the other girls at the factory?  i
+should make money there for you and me both."
+
+the man smiled--such a smile--it seemed to bring into sudden play all
+the revolting characteristics of his countenance.  "child," he said,
+"you are just fifteen, and a sad fool you are: perhaps if you went to
+the factory, you would get away from me; and what should i do without
+you?  no, i think, as you are so pretty, you might get more money
+another way."
+
+the girl did not seem to understand this allusion: but repeated,
+vacantly, "i should like to go to the factory."
+
+"stuff!" said the man, angrily; "i have three minds to--"
+
+here he was interrupted by a loud knock at the door of the hovel.
+
+the man grew pale.  "what can that be?" he muttered.  "the hour is
+late--near eleven.  again--again!  ask who knocks, alice."
+
+the girl stood for a moment or so at the door; and as she stood, her
+form, rounded yet slight, her earnest look, her varying colour, her
+tender youth, and a singular grace of attitude and gesture, would have
+inspired an artist with the very ideal of rustic beauty.
+
+after a pause, she placed her lips to a chink in the door, and repeated
+her father's question.
+
+"pray pardon me," said a clear, loud, yet courteous voice, "but seeing a
+light at your window, i have ventured to ask if any one within will
+conduct me to ------; i will pay the service handsomely."
+
+"open the door, alley," said the owner of the hut.
+
+the girl drew a large wooden bolt from the door; and a tall figure
+crossed the threshold.
+
+the new-comer was in the first bloom of youth, perhaps about eighteen
+years of age, and his air and appearance surprised both sire and
+daughter.  alone, on foot, at such an hour, it was impossible for any
+one to mistake him for other than a gentleman; yet his dress was plain
+and somewhat soiled by dust, and he carried a small knapsack on his
+shoulder.  as he entered, he lifted his hat with somewhat of foreign
+urbanity, and a profusion of fair brown hair fell partially over a high
+and commanding forehead.  his features were handsome, without being
+eminently so, and his aspect was at once bold and prepossessing.
+
+"i am much obliged by your civility," he said, advancing carelessly and
+addressing the man, who surveyed him with a scrutinising eye; "and
+trust, my good fellow, that you will increase the obligation by
+accompanying me to ------."
+
+"you can't miss well your way," said the man surlily: "the lights will
+direct you."
+
+"they have rather misled me, for they seem to surround the whole common,
+and there is no path across it that i can see; however, if you will put
+me in the right road, i will not trouble you further."
+
+"it is very late," replied the churlish landlord, equivocally.
+
+"the better reason why i should be at ------.  come, my good friend, put
+on your hat, and i will give you half a guinea for your trouble."
+
+the man advanced, then halted; again surveyed his guest, and said, "are
+you quite alone, sir?"
+
+"quite."
+
+"probably you are known at ------?"
+
+"not i.  but what matters that to you?  i am a stranger in these parts."
+
+"it is full four miles."
+
+"so far, and i am fearfully tired already!" exclaimed the young man with
+impatience.  as he spoke he drew out his watch.  "past eleven too!"
+
+the watch caught the eye of the cottager; that evil eye sparkled.  he
+passed his hand over his brow.  "i am thinking, sir," he said in a more
+civil tone than he had yet assumed, "that as you are so tired and the
+hour is so late, you might almost as well--"
+
+"what?" exclaimed the stranger, stamping somewhat petulantly.
+
+"i don't like to mention it; but my poor roof is at your service, and i
+would go with you to ------ at daybreak to-morrow."
+
+the stranger stared at the cottager, and then at the dingy walls of the
+hut.  he was about, very abruptly, to reject the hospitable proposal,
+when his eye rested suddenly on the form of alice, who stood eager-eyed
+and open-mouthed, gazing on the handsome intruder.  as she caught his
+eye, she blushed deeply and turned aside.  the view seemed to change the
+intentions of the stranger.  he hesitated a moment, then muttered
+between his teeth: and sinking his knapsack on the ground, he cast
+himself into a chair beside the fire, stretched his limbs, and cried
+gaily, "so be it, my host: shut up your house again.  bring me a cup of
+beer, and a crust of bread, and so much for supper!  as for bed, this
+chair will do vastly well."
+
+"perhaps we can manage better for you than that chair," answered the
+host.  "but our best accommodation must seem bad enough to a gentleman:
+we are very poor people--hard-working, but very poor."
+
+"never mind me," answered the stranger, busying himself in stirring the
+fire; "i am tolerably well accustomed to greater hardships than sleeping
+on a chair in an honest man's house; and though you are poor, i will
+take it for granted you are honest."
+
+the man grinned: and turning to alice, bade her spread what their larder
+would afford.  some crusts of bread, some cold potatoes, and some
+tolerably strong beer, composed all the fare set before the traveller.
+
+despite his previous boasts, the young man made a wry face at these
+socratic preparations, while he drew his chair to the board.  but his
+look grew more gay as he caught alice's eye; and as she lingered by the
+table, and faltered out some hesitating words of apology, he seized her
+hand, and pressing it tenderly--"prettiest of lasses," said he--and
+while he spoke he gazed on her with undisguised admiration--"a man who
+has travelled on foot all day, through the ugliest country within the
+three seas, is sufficiently refreshed at night by the sight of so fair a
+face."
+
+alice hastily withdrew her hand, and went and seated herself in a corner
+of the room, when she continued to look at the stranger with her usual
+vacant gaze, but with a half-smile upon her rosy lips.
+
+alice's father looked hard first at one, then at the other.
+
+"eat, sir," said he, with a sort of chuckle, "and no fine words; poor
+alice is honest, as you said just now."
+
+"to be sure," answered the traveller, employing with great zeal a set of
+strong, even, and dazzling teeth at the tough crusts; "to be sure she
+is.  i did not mean to offend you; but the fact is, that i am half a
+foreigner; and abroad, you know, one may say a civil thing to a pretty
+girl without hurting her feelings, or her father's either."
+
+"half a foreigner! why, you talk english as well as i do," said the
+host, whose intonation and words were, on the whole, a little above his
+station.
+
+the stranger smiled.  "thank you for the compliment," said he.  "what i
+meant was, that i have been a great deal abroad; in fact, i have just
+returned from germany.  but i am english born."
+
+"and going home?"
+
+"yes."
+
+"far from hence?"
+
+"about thirty miles, i believe."
+
+"you are young, sir, to be alone."
+
+the traveller made no answer, but finished his uninviting repast and
+drew his chair again to the fire.  he then thought he had sufficiently
+ministered to his host's curiosity to be entitled to the gratification
+of his own.
+
+"you work at the factories, i suppose?" said he.
+
+"i do, sir.  bad times."
+
+"and your pretty daughter?"
+
+"minds the house."
+
+"have you no other children?"
+
+"no; one mouth besides my own is as much as i can feed, and that
+scarcely.  but you would like to rest now; you can have my bed, sir; i
+can sleep here."
+
+"by no means," said the stranger, quickly; "just put a few more coals on
+the fire, and leave me to make myself comfortable."
+
+the man rose, and did not press his offer, but left the room for a
+supply of fuel.  alice remained in her corner.
+
+"sweetheart," said the traveller, looking round and satisfying himself
+that they were alone: "i should sleep well if i could get one kiss from
+those coral lips."
+
+alice hid her face with her hands.
+
+"do i vex you?"
+
+"oh no, sir."
+
+at this assurance the traveller rose, and approached alice softly.  he
+drew away her hands from her face, when she said gently, "have you much
+money about you?"
+
+"oh, the mercenary baggage!" said the traveller to himself; and then
+replied aloud, "why, pretty one?  do you sell your kisses so high then?"
+
+alice frowned and tossed the hair from her brow.  "if you have money,"
+she said, in a whisper, "don't say so to father.  don't sleep if you can
+help it.  i'm afraid--hush--he comes!"
+
+the young man returned to his seat with an altered manner.  and as his
+host entered, he for the first time surveyed him closely.  the imperfect
+glimmer of the half-dying and single candle threw into strong lights and
+shades the marked, rugged, and ferocious features of the cottager; and
+the eye of the traveller, glancing from the face to the limbs and frame,
+saw that whatever of violence the mind might design, the body might well
+execute.
+
+the traveller sank into a gloomy reverie.  the wind howled--the rain
+beat--through the casement shone no solitary star--all was dark and
+sombre.  should he proceed alone--might he not suffer a greater danger
+upon that wide and desert moor--might not the host follow--assault him
+in the dark?  he had no weapon save a stick.  but within he had at least
+a rude resource in the large kitchen poker that was beside him.  at all
+events it would be better to wait for the present.  he might at any
+time, when alone, withdraw the bolt from the door, and slip out
+unobserved.  such was the fruit of his meditations while his host plied
+the fire.
+
+"you will sleep sound to-night," said his entertainer, smiling.
+
+"humph!  why, i am /over/-fatigued; i dare say it will be an hour or two
+before i fall asleep; but when i once am asleep, i sleep like a rock!"
+
+"come, alice," said her father, "let us leave the gentleman.  goodnight,
+sir."
+
+"good night--good night," returned the traveller, yawning.
+
+the father and daughter disappeared through a door in the corner of the
+room.  the guest heard them ascend the creaking stairs--all was still.
+
+"fool that i am," said the traveller to himself, "will nothing teach me
+that i am no longer a student at gottingen, or cure me of these
+pedestrian adventures?  had it not been for that girl's big blue eyes, i
+should be safe at ------ by this time, if, indeed, the grim father had
+not murdered me by the road.  however, we'll baulk him yet: another
+half-hour, and i am on the moor: we must give him time.  and in the
+meanwhile here is the poker.  at the worst it is but one to one; but the
+churl is strongly built."
+
+although the traveller thus endeavoured to cheer his courage, his heart
+beat more loudly than its wont.  he kept his eyes stationed on the door
+by which the cottagers had vanished, and his hand on the massive poker.
+
+while the stranger was thus employed below, alice, instead of turning to
+her own narrow cell, went into her father's room.
+
+the cottager was seated at the foot of his bed muttering to himself, and
+with eyes fixed on the ground.
+
+the girl stood before him, gazing on his face, and with her arms lightly
+crossed above her bosom.
+
+"it must be worth twenty guineas," said the host, abruptly to himself.
+
+"what is it to you, father, what the gentleman's watch is worth?"
+
+the man started.
+
+"you mean," continued alice, quietly, "you mean to do some injury to
+that young man; but you shall not."
+
+the cottager's face grew black as night.  "how," he began in a loud
+voice, but suddenly dropped the tone into a deep growl--" how dare you
+talk to me so?--go to bed--go to bed."
+
+"no, father."
+
+"no?"
+
+"i will not stir from this room until daybreak."
+
+"we will soon see that," said the man, with an oath.
+
+"touch me, and i will alarm the gentleman, and tell him that--"
+
+"what?"
+
+the girl approached her father, placed her lips to his ear, and
+whispered, "that you intend to murder him."
+
+the cottager's frame trembled from head to foot; he shut his eyes, and
+gasped painfully for breath.  "alice," said he, gently, after a
+pause--"alice, we are often nearly starving."
+
+"/i/ am--/you/ never!"
+
+"wretch, yes, if i do drink too much one day, i pinch for it the next.
+but go to bed, i say--i mean no harm to the young man.  think you i
+would twist myself a rope?--no, no; go along, go along."
+
+alice's face, which had before been earnest and almost intelligent, now
+relapsed into its wonted vacant stare.
+
+"to be sure, father, they would hang you if you cut his throat.  don't
+forget that;--good night;" and so saying, she walked to her own opposite
+chamber.
+
+left alone, the host pressed his hand tightly to his forehead, and
+remained motionless for nearly half an hour.
+
+"if that cursed girl would but sleep," he muttered at last, turning
+round, "it might be done at once.  and there's the pond behind, as deep
+as a well; and i might say at daybreak that the boy had bolted.  he
+seems quite a stranger here--nobody'll miss him.  he must have plenty of
+blunt to give half a guinea to a guide across a common!  i want money,
+and i won't work--if i can help it, at least."
+
+while he thus soliloquised the air seemed to oppress him; he opened the
+window, he leant out--the rain beat upon him.  he closed the window with
+an oath; took off his shoes, stole to the threshold, and, by the candle,
+which he shaded with his hand, surveyed the opposite door.  it was
+closed.  he then bent anxiously forward and listened.
+
+"all's quiet," thought he, "perhaps he sleeps already.  i will steal
+down.  if jack walters would but come tonight, the job would be done
+charmingly."
+
+with that he crept gently down the stairs.  in a corner, at the foot of
+the staircase, lay sundry matters, a few faggots, and a cleaver.  he
+caught up the last.  "aha," he muttered; "and there's the sledge-hammer
+somewhere for walters."  leaning himself against the door, he then
+applied his eye to a chink which admitted a dim view of the room within,
+lighted fitfully by the fire.
+
+
+
+chapter ii.
+
+  "what have we here?
+   a carrion death!"
+     /merchant of venice/, act ii. sc. 7.
+
+it was about this time that the stranger deemed it advisable to commence
+his retreat.  the slight and suppressed sound of voices, which at first
+he had heard above in the conversation of the father and child, had died
+away.  the stillness at once encouraged and warned him.  he stole to the
+front door, softly undid the bolt, and found the door locked, and the
+key missing.  he had not observed that during his repast, and ere his
+suspicions had been aroused, his host, in replacing the bar, and
+relocking the entrance, had abstracted the key.  his fears were now
+confirmed.  his next thought was the window--the shutter only protected
+it half-way, and was easily removed; but the aperture of the lattice,
+which only opened in part like most cottage casements, was far too small
+to admit his person.  his only means of escape was in breaking the whole
+window; a matter not to be effected without noise and consequent risk.
+
+he paused in despair.  he was naturally of a strong-nerved and gallant
+temperament, nor unaccustomed to those perils of life and limb which
+german students delight to brave; but his heart well-nigh failed him at
+that moment.  the silence became distinct and burdensome to him, and a
+chill moisture gathered to his brow.  while he stood irresolute and in
+suspense, striving to collect his thoughts, his ear, preternaturally
+sharpened by fear, caught the faint muffled sound of creeping
+footsteps--he heard the stairs creak.  the sound broke the spell.  the
+previous vague apprehension gave way, when the danger became actually at
+hand.  his presence of mind returned at once.  he went back quickly to
+the fireplace, seized the poker, and began stirring the fire, and
+coughing loud, and indicating as vigorously as possible that he was wide
+awake.
+
+he felt that he was watched--he felt that he was in momently peril.  he
+felt that the appearance of slumber would be the signal for a mortal
+conflict.  time passed, all remained silent; nearly half an hour had
+elapsed since he had heard the steps upon the stairs.  his situation
+began to prey upon his nerves, it irritated them--it became intolerable.
+it was not now fear that he experienced, it was the overwrought sense of
+mortal enmity--the consciousness that a man may feel who knows that the
+eye of a tiger is on him, and who, while in suspense he has regained his
+courage, foresees that sooner or later the spring must come; the
+suspense itself becomes an agony, and he desires to expedite the deadly
+struggle he cannot shun.
+
+utterly incapable any longer to bear his own sensations, the traveller
+rose at last, fixed his eyes upon the fatal door, and was about to cry
+aloud to the listener to enter, when he heard a slight tap at the
+window; it was twice repeated; and at the third time a low voice
+pronounced the name of darvil.  it was clear, then, that accomplices had
+arrived; it was no longer against one man that he would have to contend.
+he drew his breath hard, and listened with throbbing ears.  he heard
+steps without upon the plashing soil; they retired--all was still.
+
+he paused a few minutes, and walked deliberately and firmly to the inner
+door, at which he fancied his host stationed; with a steady hand he
+attempted to open the door; it was fastened on the opposite side. 
+"so!" said he, bitterly, and grinding his teeth, "i must die like a rat
+in a cage.  well, i'll die biting."
+
+he returned to his former post, drew himself up to his full height, and
+stood grasping his homely weapon, prepared for the worst, and not
+altogether unelated with a proud consciousness of his own natural
+advantages of activity, stature, strength and daring.  minutes rolled
+on; the silence was broken by some one at the inner door; he heard the
+bolt gently withdrawn.  he raised his weapon with both hands; and
+started to find the intruder was only alice.  she came in with bare
+feet, and pale as marble, her finger on her lips.
+
+she approached--she touched him.
+
+"they are in the shed behind," she whispered, "looking for the
+sledge-hammer--they mean to murder you; get you gone--quick."
+
+"how?--the door is locked."
+
+"stay.  i have taken the key from his room."
+
+she gained the door, applied the key--the door yielded.  the traveller
+threw his knapsack once more over his shoulder, and made but one stride
+to the threshold.  the girl stopped him.  "don't say anything about it;
+he is my father, they would hang him."
+
+"no, no.  but you?--are safe, i trust?--depend on my gratitude.--i shall
+be at ------ to-morrow--the best inn--seek me if you can.  which way
+now?"
+
+"keep to the left."
+
+the stranger was already several paces distant; through the darkness,
+and in the midst of the rain, he fled on with the speed of youth.  the
+girl lingered an instant, sighed, then laughed aloud; closed and
+re-barred the door, and was creeping back, when from the inner entrance
+advanced the grim father, and another man, of broad, short, sinewy
+frame, his arms bare, and wielding a large hammer.
+
+"how?" asked the host; "alice here, and--hell and the devil! have you
+let him go?"
+
+"i told you that you should not harm him."
+
+with a violent oath the ruffian struck his daughter to the ground,
+sprang over her body, unbarred the door, and, accompanied by his
+comrade, set off in vague pursuit of his intended victim.
+
+
+
+chapter iii.
+
+  "you knew--none so well, of my daughter's flight."
+     /merchant of venice/, act iii. sc. 1.
+
+the day dawned; it was a mild, damp, hazy morning; the sod sank deep
+beneath the foot, the roads were heavy with mire, and the rain of the
+past night lay here and there in broad shallow pools.  towards the town,
+waggons, carts, pedestrian groups were already moving; and, now and
+then, you caught the sharp horn of some early coach, wheeling its
+be-cloaked outside and be-nightcapped inside passengers along the
+northern thoroughfare.
+
+a young man bounded over a stile into the road just opposite to the
+milestone, that declared him to be one mile from ------.
+
+"thank heaven!" he said, almost aloud.  "after spending the night
+wandering about morasses like a will-o'-the-wisp, i approach a town at
+last.  thank heaven again, and for all its mercies this night!  i
+breathe freely.  i am safe."
+
+he walked on somewhat rapidly; he passed a slow waggon---he passed a
+group of mechanics--he passed a drove of sheep, and now he saw walking
+leisurely before him a single figure.  it was a girl, in a worn and
+humble dress, who seemed to seek her weary way with pain and languor.
+he was about also to pass her, when he heard a low cry.  he turned, and
+beheld in the wayfarer his preserver of the previous night.
+
+"heavens! is it indeed you?  can i believe my eyes?"
+
+"i was coming to seek you, sir," said the girl, faintly.  "i too have
+escaped; i shall never go back to father; i have no roof to cover my
+head now."
+
+"poor child! but how is this?  did they ill use you for releasing me?"
+
+"father knocked me down, and beat me again when he came back; but that
+is not all," she added, in a very low tone.
+
+"what else?"
+
+the girl grew red and white by turns.  she set her teeth rigidly,
+stopped short, and then walking on quicker than before, replied: "it
+don't matter; i will never go back--i'm alone now.  what, what shall i
+do?" and she wrung her hands.
+
+the traveller's pity was deeply moved.  "my good girl," said he,
+earnestly, "you have saved my life, and i am not ungrateful.  here" (and
+he placed some gold in her hand), "get yourself a lodging, food and
+rest; you look as if you wanted them; and see me again this evening when
+it is dark and we can talk unobserved."
+
+the girl took the money passively, and looked up in his face while he
+spoke; the look was so unsuspecting, and the whole countenance was so
+beautifully modest and virgin-like, that had any evil passion prompted
+the traveller's last words, it must have fled scared and abashed as he
+met the gaze.
+
+"my poor girl," said he, embarrassed, and after a short pause; "you are
+very young, and very, very pretty.  in this town you will be exposed to
+many temptations: take care where you lodge; you have, no doubt, friends
+here?"
+
+"friends?--what are friends?" answered alice.
+
+"have you no relations?--no /mother's kin/?"
+
+"none."
+
+"do you know where to ask shelter?"
+
+"no, sir; for i can't go where father goes, lest he should find me out."
+
+"well, then, seek some quiet inn, and meet me this evening just here,
+half a mile from the town, at seven.  i will try and think of something
+for you in the meanwhile.  but you seem tired, you walk with pain;
+perhaps it will fatigue you to come--i mean, you had rather perhaps rest
+another day."
+
+"oh no, no! it will do me good to see you again, sir."
+
+the young man's eyes met hers, and hers were not withdrawn; their soft
+blue was suffused with tears--they penetrated his soul.  he turned away
+hastily, and saw that they were already the subject of curious
+observation to the various passengers that overtook them.  "don't
+forget!" he whispered, and strode on with a pace that soon brought him
+to the town.
+
+he inquired for the principal hotel--entered it with an air that bespoke
+that nameless consciousness of superiority which belongs to those
+accustomed to purchase welcome wherever welcome is bought and sold--and
+before a blazing fire and no unsubstantial breakfast, forgot all the
+terrors of the past night, or rather felt rejoiced to think he had added
+a new and strange hazard to the catalogue of adventures already
+experienced by ernest maltravers.
+
+
+
+chapter iv.
+
+  "con una dama tenia
+   un galan conversacion."*
+     moratin: /el teatro espanol/.--num. 15.
+
+* with a dame he held a gallant conversation.
+
+maltravers was first at the appointed place.  his character was in most
+respects singularly energetic, decided, and premature in its
+development; but not so in regard to women: with them he was the
+creature of the moment; and, driven to and fro by whatever impulse, or
+whatever passion, caught the caprice of a wild, roving, and all-poetical
+imagination, maltravers was, half unconsciously, a poet--a poet of
+action, and woman was his muse.
+
+he had formed no plan of conduct towards the poor girl he was to meet.
+he meant no harm to her.  if she had been less handsome, he would have
+been equally grateful; and her dress, and youth, and condition, would
+equally have compelled him to select the hour of dusk for an interview.
+
+he arrived at the spot.  the winter night had already descended; but a
+sharp frost had set in: the air was clear, the stars were bright, and
+the long shadows slept, still and calm, along the broad road, and the
+whitened fields beyond.
+
+he walked briskly to and fro, without much thought of the interview, or
+its object, half chanting old verses, german and english, to himself,
+and stopping to gaze every moment at the silent stars.
+
+at length he saw alice approach: she came up to him timidly and gently.
+his heart beat more quickly; he felt that he was young and alone with
+beauty.  "sweet girl," he said, with involuntary and mechanical
+compliment, "how well this light becomes you.  how shall i thank you for
+not forgetting me?"
+
+alice surrendered her hand to his without a struggle.
+
+"what is your name?" said he, bending his face down to hers.
+
+"alice darvil."
+
+"and your terrible father,--/is/ he, in truth, your father?"
+
+"indeed he is my father and mother too!"
+
+"what made you suspect his intention to murder me?  has he ever
+attempted the like crime?"
+
+"no; but lately he has often talked of robbery.  he is very poor, sir.
+and when i saw his eye, and when afterwards, while your back was turned,
+he took the key from the door, i felt that--that you were in danger."
+
+"good girl--go on."
+
+"i told him so when we went up-stairs.  i did not know what to believe,
+when he said he would not hurt you; but i stole the key of the front
+door, which he had thrown on the table, and went to my room.  i listened
+at my door; i heard him go down the stairs--he stopped there for some
+time; and i watched him from above.  the place where he was opened to
+the field by the back-way.  after some time, i heard a voice whisper
+him; i knew the voice, and then they both went out by the back-way; so i
+stole down, and went out and listened; and i knew the other man was john
+walters.  i'm afraid of /him/, sir.  and then walters said, says he, 'i
+will get the hammer, and, sleep or wake, we'll do it.'  and father said,
+'it's in the shed.'  so i saw there was no time to be lost, sir,
+and--and--but you know all the rest."
+
+"but how did you escape?"
+
+"oh, my father, after talking to walters, came to my room, and beat
+and--and--frightened me; and when he was gone to bed, i put on my
+clothes, and stole out; it was just light; and i walked on till i met
+you."
+
+"poor child, in what a den of vice you have been brought up!"
+
+"anan, sir."
+
+"she don't understand me.  have you been taught to read and write?"
+
+"oh no!"
+
+"but i suppose you have been taught, at least, to say your
+catechism--and you pray sometimes?"
+
+"i have prayed to father not to beat me."
+
+"but to god?"
+
+"god, sir--what is that?"*
+
+* this ignorance--indeed the whole sketch of alice--is from the life;
+nor is such ignorance, accompanied by what almost seems an instinctive
+or intuitive notion of right or wrong, very uncommon, as our police
+reports can testify.  in the /examiner/ for, i think, the year 1835,
+will be found the case of a young girl ill-treated by her father, whose
+answers to the interrogatories of the magistrate are very similar to
+those of alice to the questions of maltravers.
+
+maltravers drew back, shocked and appalled.  premature philosopher as he
+was, this depth of ignorance perplexed his wisdom.  he had read all the
+disputes of schoolmen, whether or not the notion of a supreme being is
+innate; but he had never before been brought face to face with a living
+creature who was unconscious of a god.
+
+after a pause, he said: "my poor girl, we misunderstand each other.  you
+know that there is a god?"
+
+"no, sir."
+
+"did no one ever tell you who made the stars you now survey--the earth
+on which you tread?"
+
+"no."
+
+"and have you never thought about it yourself?"
+
+"why should i?  what has that to do with being cold and hungry?"
+
+maltravers looked incredulous.  "you see that great building, with the
+spire rising in the starlight?"
+
+"yes, sir, sure."
+
+"what is it called?"
+
+"why, a church."
+
+"did you never go into it?"
+
+"no."
+
+"what do people do there?"
+
+"father says one man talks nonsense, and the other folk listen to him."
+
+"your father is--no matter.  good heavens! what shall i do with this
+unhappy child?"
+
+"yes, sir, i am very unhappy," said alice, catching at the last words;
+and the tears rolled silently down her cheeks.
+
+maltravers never was more touched in his life.  whatever thoughts of
+gallantry might have entered his young head, had he found alice such as
+he might reasonably have expected, he now felt that there was a kind of
+sanctity in her ignorance; and his gratitude and kindly sentiment
+towards her took almost a brotherly aspect.--"you know, at least, what
+school is?" he asked.
+
+"yes, i have talked with girls who go to school."
+
+"would you like to go there, too?"
+
+"oh, no, sir, pray not!"
+
+"what should you like to do, then?  speak out, child.  i owe you so
+much, that i should be too happy to make you comfortable and contented
+in your own way."
+
+"i should like to live with you, sir."  maltravers started, and half
+smiled, and coloured.  but looking on her eyes, which were fixed
+earnestly on his, there was so much artlessness in their soft,
+unconscious gaze, that he saw she was wholly ignorant of the
+interpretation that might be put upon so candid a confession.
+
+i have said that maltravers was a wild, enthusiastic, odd being--he was,
+in fact, full of strange german romance and metaphysical speculations.
+he had once shut himself up for months to study astrology--and been even
+suspected of a serious hunt after the philosopher's stone; another time
+he had narrowly escaped with life and liberty from a frantic conspiracy
+of the young republicans of his university, in which, being bolder and
+madder than most of them, he had been an active ringleader; it was,
+indeed, some such folly that had compelled him to quit germany sooner
+than himself or his parents desired.  he had nothing of the sober
+englishman about him.  whatever was strange and eccentric had an
+irresistible charm for ernest maltravers.  and agreeably to this
+disposition, he now revolved an idea that enchanted his mobile and
+fantastic philosophy.  he himself would educate this charming girl--he
+would write fair and heavenly characters upon this blank page--he would
+act the saint preux to this julie of nature.  alas, he did not think of
+the result which the parallel should have suggested.  at that age,
+ernest maltravers never damped the ardour of an experiment by the
+anticipation of consequences.
+
+"so," he said, after a short reverie, "so you would like to live with
+me?  but, alice, we must not fall in love with each other."
+
+"i don't understand, sir."
+
+"never mind," said maltravers, a little disconcerted.
+
+"i always wished to go into service."
+
+"ha!"
+
+"and you would be a kind master."
+
+maltravers was half disenchanted.
+
+"no very flattering preference," thought he: "so much the safer for us.
+well, alice, it shall be as you wish.  are you comfortable where you
+are, in your new lodgings?"
+
+"no."
+
+"why, they do not insult you?"
+
+"no; but they make a noise, and i like to be quiet to think of you."
+
+the young philosopher was reconciled again to his scheme.
+
+"well, alice--go back--i will take a cottage to-morrow, and you shall be
+my servant, and i will teach you to read and write and say your prayers,
+and know that you have a father above who loves you better than he
+below.  meet me again at the same hour to-morrow.  why do you cry,
+alice? why do you cry?"
+
+"because--because," sobbed the girl, "i am so happy, and i shall live
+with you and see you."
+
+"go, child--go, child," said maltravers, hastily; and he walked away
+with a quicker pulse than became his new character of master and
+preceptor.
+
+he looked back, and saw the girl gazing at him; he waved his hand, and
+she moved on and followed him slowly back to the town.
+
+maltravers, though not an elder son, was the heir of affluent fortunes;
+he enjoyed a munificent allowance that sufficed for the whims of a youth
+who had learned in germany none of the extravagant notions common to
+young englishmen of similar birth and prospects.  he was a spoiled
+child, with no law but his own fancy,--his return home was not
+expected,--there was nothing to prevent the indulgence of his new
+caprice.  the next day he hired a cottage in the neighbourhood, which
+was one of those pretty thatched edifices, with verandas and monthly
+roses, a conservatory and a lawn, which justify the english proverb
+about a cottage and love.  it had been built by a mercantile bachelor
+for some fair rosamond, and did credit to his taste.  an old woman, let
+with the house, was to cook and do the work.  alice was but a nominal
+servant.  neither the old woman nor the landlord comprehended the
+platonic intentions of the young stranger.  but he paid his rent in
+advance, and they were not particular.  he, however, thought it prudent
+to conceal his name.  it was one sure to be known in a town not very
+distant from the residence of his father, a wealthy and long-descended
+country gentleman.  he adopted, therefore, the common name of butler;
+which, indeed, belonged to one of his maternal connections, and by that
+name alone was he known in the neighbourhood and to alice.  from her he
+would not have sought concealment,--but somehow or other no occasion
+ever presented itself to induce him to talk much to her of his parentage
+or birth.
+
+
+
+chapter v.
+
+  "thought would destroy their paradise."--gray.
+
+maltravers found alice as docile a pupil as any reasonable preceptor
+might have desired.  but still, reading and writing--they are very
+uninteresting elements!  had the groundwork been laid, it might have
+been delightful to raise the fairy palace of knowledge; but the digging
+the foundations and the constructing the cellars is weary labour.
+perhaps he felt it so; for in a few days alice was handed over to the
+very oldest and ugliest writing-master that the neighbouring town could
+afford.  the poor girl at first wept much at the exchange; but the grave
+remonstrances and solemn exhortations of maltravers reconciled her at
+last, and she promised to work hard and pay every attention to her
+lessons.  i am not sure, however, that it was the tedium of the work
+that deterred the idealist--perhaps he felt its danger--and at the
+bottom of his sparkling dreams and brilliant follies lay a sound,
+generous, and noble heart.  he was fond of pleasure, and had been
+already the darling of the sentimental german ladies.  but he was too
+young and too vivid, and too romantic, to be what is called a
+sensualist.  he could not look upon a fair face, and a guileless smile,
+and all the ineffable symmetry of a woman's shape, with the eye of a man
+buying cattle for base uses.  he very easily fell in love, or fancied he
+did, it is true,--but then he could not separate desire from fancy, or
+calculate the game of passion without bringing the heart or the
+imagination into the matter.  and though alice was very pretty and very
+engaging, he was not yet in love with her, and he had no intention of
+becoming so.
+
+he felt the evening somewhat long, when for the first time alice
+discontinued her usual lesson; but maltravers had abundant resources in
+himself.  he placed shakespeare and schiller on his table, and lighted
+his german meerschaum--he read till he became inspired, and then he
+wrote--and when he had composed a few stanzas he was not contented till
+he had set them to music, and tried their melody with his voice.  for he
+had all the passion of a german for song, and music--that wild
+maltravers!--and his voice was sweet, his taste consummate, his science
+profound.  as the sun puts out a star, so the full blaze of his
+imagination, fairly kindled, extinguished for the time his fairy fancy
+for his beautiful pupil.
+
+it was late that night when maltravers went to bed--and as he passed
+through the narrow corridor that led to his chamber he heard a light
+step flying before him, and caught the glimpse of a female figure
+escaping through a distant door.  "the silly child," thought he, at once
+divining the cause; "she has been listening to my singing.  i shall
+scold her."  but he forgot that resolution.
+
+the next day, and the next, and many days passed, and maltravers saw but
+little of the pupil for whose sake he had shut himself up in a country
+cottage, in the depth of winter.  still he did not repent his purpose,
+nor was he in the least tired of his seclusion--he would not inspect
+alice's progress, for he was certain he should be dissatisfied with its
+slowness--and people, however handsome, cannot learn to read and write
+in a day.  but he amused himself, notwithstanding.  he was glad of an
+opportunity to be alone with his own thoughts, for he was at one of
+those periodical epochs of life when we like to pause and breathe a
+while, in brief respite from that methodical race in which we run to the
+grave.  he wished to re-collect the stores of his past experience, and
+repose on his own mind, before he started afresh upon the active world.
+the weather was cold and inclement; but ernest maltravers was a hardy
+lover of nature, and neither snow nor frost could detain him from his
+daily rambles.  so, about noon, he regularly threw aside books and
+papers, took his hat and staff, and went whistling or humming his
+favourite airs through the dreary streets, or along the bleak waters, or
+amidst the leafless woods, just as the humour seized him; for he was not
+an edwin or harold, who reserved speculation only for lonely brooks and
+pastoral hills.  maltravers delighted to contemplate nature in men as
+well as in sheep or trees.  the humblest alley in a crowded town had
+something poetical for him; he was ever ready to mix in a crowd, if it
+were only gathered round a barrel-organ or a dog-fight, and listen to
+all that was said and notice all that was done.  and this i take to be
+the true poetical temperament essential to every artist who aspires to
+be something more than a scene-painter.  but, above all things, he was
+most interested in any display of human passions or affections; he loved
+to see the true colours of the heart, where they are most
+transparent--in the uneducated and poor--for he was something of an
+optimist, and had a hearty faith in the loveliness of our nature.
+perhaps, indeed, he owed much of the insight into and mastery over
+character that he was afterwards considered to display, to his disbelief
+that there is any wickedness so dark as not to be susceptible of the
+light in some place or another.  but maltravers had his fits of
+unsociability, and then nothing but the most solitary scenes delighted
+him.  winter or summer, barren waste or prodigal verdure, all had beauty
+in his eyes; for their beauty lay in his own soul, through which he
+beheld them.  from these walks he would return home at dusk, take his
+simple meal, rhyme or read away the long evenings with such alternation
+as music or the dreamy thoughts of a young man with gay life before him
+could afford.  happy maltravers!--youth and genius have luxuries all the
+rothschilds cannot purchase!  and yet, maltravers, you are
+ambitious!--life moves too slowly for you!--you would push on the wheels
+of the clock!--fool--brilliant fool!--you are eighteen, and a
+poet!--what more can you desire?--bid time stop for ever!
+
+one morning ernest rose earlier than his wont, and sauntered carelessly
+through the conservatory which adjoined his sitting-room; observing the
+plants with placid curiosity (for besides being a little of a botanist,
+he had odd visionary notions about the life of plants, and he saw in
+them a hundred mysteries which the herbalists do not teach us), when he
+heard a low and very musical voice singing at a little distance.  he
+listened, and recognised, with surprise, words of his own, which he had
+lately set to music, and was sufficiently pleased with to sing nightly.
+
+when the song ended, maltravers stole softly through the conservatory,
+and as he opened the door which led into the garden, he saw at the open
+window of a little room which was apportioned to alice, and jutted out
+from the building in the fanciful irregularity common to ornamental
+cottages, the form of his discarded pupil.  she did not observe him, and
+it was not till he twice called her by name, that she started from her
+thoughtful and melancholy posture.
+
+"alice," said he, gently, "put on your bonnet, and walk with me in the
+garden: you look pale, child; the fresh air will do you good."
+
+alice coloured and smiled, and in a few moments was by his side.
+maltravers, meanwhile, had gone in and lighted his meerschaum, for it
+was his great inspirer whenever his thoughts were perplexed, or he felt
+his usual fluency likely to fail him, and such was the case now.  with
+this faithful ally he awaited alice in the little walk that circled the
+lawn, amidst shrubs and evergreens.
+
+"alice," said he after a pause; but he stopped short.
+
+alice looked up at him with grave respect.
+
+"tush!" said maltravers; "perhaps the smoke is unpleasant to you.  it is
+a bad habit of mine."
+
+"no, sir," answered alice; and she seemed disappointed.  maltravers
+paused, and picked up a snowdrop.
+
+"it is pretty," he said; "do you love flowers?"
+
+"oh, dearly," answered alice, with some enthusiasm; "i never saw many
+till i came here."
+
+"now then i can go on," thought maltravers; why, i cannot say, for i do
+not see the /sequitur/; but on he went /in medias res/.  "alice, you
+sing charmingly."
+
+"ah! sir, you--you--" she stopped abruptly, and trembled visibly.
+
+"yes, i overheard you, alice."
+
+"and you are angry?"
+
+"i!--heaven forbid!  it is a /talent/--but you don't know what that is;
+i mean it is an excellent thing to have an ear; and a voice, and a heart
+for music; and you have all three."
+
+he paused, for he felt his hand touched; alice suddenly clasped and
+kissed it.  maltravers thrilled through his whole frame; but there was
+something in the girl's look that showed she was wholly unaware that she
+had committed an unmaidenly or forward action.
+
+"i was so afraid you would be angry," she said, wiping her eyes as she
+dropped his hand; "and now i suppose you know all."
+
+"all!"
+
+"yes; how i listened to you every evening, and lay awake the whole night
+with the music ringing in my ears, till i tried to go over it myself;
+and so at last i ventured to sing aloud.  i like that much better than
+learning to read."
+
+all this was delightful to maltravers: the girl had touched upon one of
+his weak points; however, he remained silent.  alice continued:
+
+"and now, sir, i hope you will let me come and sit outside the door
+every evening and hear you; i will make no noise--i will be so quiet."
+
+"what, in that cold corridor, these bitter nights?"
+
+"i am used to cold, sir.  father would not let me have a fire when he
+was not at home."
+
+"no, alice, but you shall come into the room while i play, and i will
+give you a lesson or two.  i am glad you have so good an ear; it may be
+a means of your earning your own honest livelihood when you leave me."
+
+"when i--but i never intend to leave you, sir!" said alice, beginning
+fearfully and ending calmly.
+
+maltravers had recourse to the meerschaum.
+
+luckily, perhaps, at this time, they were joined by mr. simcox, the old
+writing-master.  alice went in to prepare her books; but maltravers laid
+his hand upon the preceptor's shoulder.
+
+"you have a quick pupil, i hope, sir?" said he.
+
+"oh, very, very, mr. butler.  she comes on famously.  she practises a
+great deal when i am away, and i do my best."
+
+"and," asked maltravers, in a grave tone, "have you succeeded in
+instilling into the poor child's mind some of those more sacred notions
+of which i spoke to you at our first meeting?"
+
+"why, sir, she was indeed quite a heathen--quite a mahometan, i may say;
+but she is a little better now."
+
+"what have you taught her?"
+
+"that god made her."
+
+"that is a great step."
+
+"and that he loves good girls, and will watch over them."
+
+"bravo!  you beat plato."
+
+"no, sir, i never beat any one, except little jack turner; but he is a
+dunce."
+
+"bah!  what else do you teach her?"
+
+"that the devil runs away with bad girls, and--"
+
+"stop there, mr. simcox.  never mind the devil yet a while.  let her
+first learn to do good, that god may love her; the rest will follow.  i
+would rather make people religious through their best feelings than
+their worst,--through their gratitude and affections, rather than their
+fears and calculations of risk and punishment."
+
+mr. simcox stared.
+
+"does she say her prayers?"
+
+"i have taught her a short one."
+
+"did she learn it readily?"
+
+"lord love her, yes!  when i told her she ought to pray to god to bless
+her benefactor, she would not rest till i had repeated a prayer out of
+our sunday school book, and she got it by heart at once."
+
+"enough, mr. simcox.  i will not detain you longer."
+
+forgetful of his untasted breakfast, maltravers continued his meerschaum
+and his reflections: he did not cease, till he had convinced himself
+that he was but doing his duty to alice, by teaching her to cultivate
+the charming talent she evidently possessed, and through which she might
+secure her own independence.  he fancied that he should thus relieve
+himself of a charge and responsibility which often perplexed him.  alice
+would leave him, enabled to walk the world in an honest professional
+path.  it was an excellent idea.  "but there is danger," whispered
+conscience.  "ay," answered philosophy and pride, those wise dupes that
+are always so solemn and always so taken in; "but what is virtue without
+trial?"
+
+and now every evening, when the windows were closed, and the hearth
+burnt clear, while the winds stormed, and the rain beat without, a lithe
+and lovely shape hovered about the student's chamber; and his wild songs
+were sung by a voice which nature had made even sweeter than his own.
+
+alice's talent for music was indeed surprising; enthusiastic and quick
+as he himself was in all he undertook, maltravers was amazed at her
+rapid progress.  he soon taught her to play by ear; and maltravers could
+not but notice that her hand, always delicate in shape, had lost the
+rude colour and roughness of labour.  he thought of that pretty hand
+more often than he ought to have done, and guided it over the keys when
+it could have found its way very well without him.
+
+on coming to the cottage he had directed the old servant to provide
+suitable and proper clothes for alice; but now that she was admitted "to
+sit with the gentleman," the crone had the sense, without waiting for
+new orders, to buy the "pretty young woman" garments, still indeed
+simple, but of better materials and less rustic fashion; and alice's
+redundant tresses were now carefully arranged into orderly and glossy
+curls, and even the texture was no longer the same; and happiness and
+health bloomed on her downy cheeks, and smiled from the dewy lips, which
+never quite closed over the fresh white teeth, except when she was
+sad--but that seemed never, now she was not banished from maltravers.
+
+to say nothing of the unusual grace and delicacy of alice's form and
+features, there is nearly always something of nature's own gentility in
+very young women (except, indeed, when they get together and fall
+a-giggling); it shames us men to see how much sooner they are polished
+into conventional shape than our rough, masculine angles.  a vulgar boy
+requires heaven knows what assiduity to make three steps--i do not say
+like a gentleman, but like a body that has a soul in it; but give the
+least advantage of society or tuition to a peasant girl, and a hundred
+to one but she will glide into refinement before the boy can make a bow
+without upsetting the table.  there is sentiment in all women, and
+sentiment gives delicacy to thought, and tact to manner.  but sentiment
+with men is generally acquired, an offspring of the intellectual
+quality, not, as with the other sex, of the moral.
+
+in the course of his musical and vocal lessons, maltravers gently took
+the occasion to correct poor alice's frequent offences against grammar
+and accent: and her memory was prodigiously quick and retentive.  the
+very tones of her voice seemed altered in the ear of maltravers; and,
+somehow or other, the time came when he was no longer sensible of the
+difference in their rank.
+
+the old woman-servant, when she had seen how it would be from the first,
+and taken a pride in her own prophecy, as she ordered alice's new
+dresses, was a much better philosopher than maltravers; though he was
+already up to his ears in the moonlit abyss of plato, and had filled a
+dozen commonplace books with criticisms on kant.
+
+
+
+chapter vi.
+
+  "young man, i fear thy blood is rosy red,
+   thy heart is soft."
+     d'aguilar's /fiesco/, act iii. sc. 1.
+
+as education does not consist in reading and writing only, so alice,
+while still very backward in those elementary arts, forestalled some of
+their maturest results in her intercourse with maltravers.  before the
+inoculation took effect, she caught knowledge in the natural way.  for
+the refinement of a graceful mind and a happy manner is very contagious.
+and maltravers was encouraged by her quickness in music to attempt such
+instruction in other studies as conversation could afford.  it is a
+better school than parents and masters think for: there was a time when
+all information was given orally; and probably the athenians learned
+more from hearing aristotle than we do from reading him.  it was a
+delicious revival of academe--in the walks, or beneath the rustic
+porticoes of that little cottage--the romantic philosopher and the
+beautiful disciple!  and his talk was much like that of a sage of the
+early world, with some wistful and earnest savage for a listener: of the
+stars and their courses--of beasts, and birds, and fishes, and plants,
+and flowers--the wide family of nature--of the beneficence and power of
+god;--of the mystic and spiritual history of man.
+
+charmed by her attention and docility, maltravers at length diverged
+from lore into poetry; he would repeat to her the simplest and most
+natural passages he could remember in his favourite poets; he would
+himself compose verses elaborately adapted to her understanding; she
+liked the last the best, and learned them the easiest.  never had young
+poet a more gracious inspiration, and never did this inharmonious world
+more complacently resolve itself into soft dreams, as if to humour the
+novitiate of the victims it must speedily take into its joyless
+priesthood.  and alice had now quietly and insensibly carved out her own
+avocations--the tenor of her service.  the plants in the conservatory
+had passed under her care, and no one else was privileged to touch
+maltravers's books, or arrange the sacred litter of a student's
+apartment.  when he came down in the morning, or returned from his
+walks, everything was in order, yet, by a kind of magic, just as he
+wished it; the flowers he loved best bloomed, fresh-gathered, on his
+table; the very position of the large chair, just in that corner by the
+fireplace, whence, on entering the roof, its hospitable arms opened with
+the most cordial air of welcome, bespoke the presiding genius of a
+woman; and then, precisely as the clock struck eight, alice entered, so
+pretty and smiling, and happy-looking, that it was no wonder the single
+hour at first allotted to her extended into three.
+
+was alice in love with maltravers?--she certainly did not exhibit the
+symptoms in the ordinary way--she did not grow more reserved, and
+agitated, and timid--there was no worm in the bud of her damask check:
+nay, though from the first she had been tolerably bold; she was more
+free and confidential, more at her ease every day; in fact, she never
+for a moment suspected that she ought to be otherwise; she had not the
+conventional and sensitive delicacy of girls who, whatever their rank of
+life, have been taught that there is a mystery and a peril in love; she
+had a vague idea about girls going wrong, but she did not know that love
+had anything to do with it; on the contrary, according to her father, it
+had connection with money, not love; all that she felt was so natural
+and so very sinless.  could she help being so delighted to listen to
+him, and so grieved to depart?  what thus she felt she expressed, no
+less simply and no less guilelessly: candour sometimes completely
+blinded and misled him.  no, she could not be in love, or she could not
+so frankly own that she loved him--it was a sisterly and grateful
+sentiment.
+
+"the dear girl--i am rejoiced to think so," said maltravers to himself;
+"i knew there would be no danger."
+
+was he not in love himself?--the reader must decide.
+
+"alice," said maltravers, one evening after a long pause of thought and
+abstraction on his side, while she was unconsciously practising her last
+lesson on the piano--"alice,--no, don't turn round--sit where you are,
+but listen to me.  we cannot live always in this way."
+
+alice was instantly disobedient--she did turn round, and those great
+blue eyes were fixed on his own with such anxiety and alarm, that he had
+no resource but to get up and look round for the meerschaum.  but alice,
+who divined by an instinct his lightest wish, brought it to him, while
+he was yet hunting, amidst the further corners of the room, in places
+where it was certain not to be.  there it was, already filled with the
+fragrant salonica glittering with the gilt pastile, which, not too
+healthfully, adulterates the seductive weed with odours that pacify the
+repugnant censure of the fastidious--for maltravers was an epicurean
+even in his worst habits;--there it was, i say, in that pretty hand
+which he had to touch as he took it; and while he lit the weed he had
+again to blush and shrink beneath those great blue eyes.
+
+"thank you, alice," he said; "thank you.  do sit down there--out of the
+draught.  i am going to open the window, the night is so lovely."
+
+he opened the casement overgrown with creepers, and the moonlight lay
+fair and breathless upon the smooth lawn.  the calm and holiness of the
+night soothed and elevated his thoughts; he had cut himself off from the
+eyes of alice, and he proceeded with a firm, though gentle voice:
+
+"my dear alice, we cannot always live together in this way; you are now
+wise enough to understand me, so listen patiently.  a young woman never
+wants a fortune so long as she has a good character; she is always poor
+and despised without one.  now a good character in this world is lost as
+much by imprudence as guilt; and if you were to live with me much
+longer, it would be imprudent, and your character would suffer so much
+that you would not be able to make your own way in the world; far, then,
+from doing you a service, i should have done you a deadly injury, which
+i could not atone for: besides, heaven knows what may happen worse than
+imprudence; for, i am very sorry to say," added maltravers, with great
+gravity, "that you are much too pretty and engaging to--to--in short, it
+won't do.  i must go home; my friends will have a right to complain of
+me if i remain thus lost to them many weeks longer.  and you, my dear
+alice, are now sufficiently advanced to receive better instruction than
+i or mr. simcox can give you.  i therefore propose to place you in some
+respectable family, where you will have more comfort and a higher
+station than you have here.  you can finish your education, and, instead
+of being taught, you will be thus enabled to become a teacher to others.
+with your beauty, alice" (and maltravers sighed), "and natural talents,
+and amiable temper, you have only to act well and prudently to secure at
+last a worthy husband and a happy home.  have you heard me, alice?  such
+is the plan i have formed for you."
+
+the young man thought as he spoke, with honest kindness and upright
+honour; it was a bitterer sacrifice than perhaps the reader thinks for.
+but maltravers, if he had an impassioned, had not a selfish heart; and
+he felt, to use his own expression, more emphatic than eloquent, that
+"it would not do" to live any longer alone with this beautiful girl,
+like the two children whom the good fairy kept safe from sin and the
+world in the pavilion of roses.
+
+but alice comprehended neither the danger to herself nor the temptations
+that maltravers, if he could not resist, desired to shun.  she rose,
+pale and trembling--approached maltravers and laid her hand gently on
+his arm.
+
+"i will go away, when and where you wish--the sooner the
+better--to-morrow--yes, to-morrow; you are ashamed of poor alice; and it
+has been very silly in me to be so happy."  (she struggled with her
+emotion for a moment, and went on.) "you know heaven can hear me, even
+when i am away from you, and when i know more i can pray better; and
+heaven will bless you, sir, and make you happy, for i never can pray for
+anything else."
+
+with these words she turned away, and walked proudly towards the door.
+but when she reached the threshold, she stopped and looked round, as if
+to take a last farewell.  all the associations and memories of that
+beloved spot rushed upon her--she gasped for breath,--tottered,--and
+fell to the ground insensible.
+
+maltravers was already by her side; he lifted her light weight in his
+arms; he uttered wild and impassioned exclamations--"alice, beloved
+alice--forgive me; we will never part!"  he chafed her hands in his own,
+while her head lay on his bosom, and he kissed again and again those
+beautiful eyelids, till they opened slowly upon him, and the tender arms
+tightened round him involuntarily.
+
+"alice," he whispered--"alice, dear alice, i love thee."  alas, it was
+true: he loved--and forgot all but that love.  he was eighteen.
+
+
+
+chapter vii.
+
+  "how like a younker or a prodigal,
+   the scarfed bark puts from her native bay!"
+     /merchant of venice/.
+
+we are apt to connect the voice of conscience with the stillness of
+midnight.  but i think we wrong that innocent hour.  it is that terrible
+"next morning," when reason is wide awake, upon which remorse fastens
+its fangs.  has a man gambled away his all, or shot his friend in a
+duel--has he committed a crime or incurred a laugh--it is the /next
+morning/, when the irretrievable past rises before him like a spectre;
+then doth the churchyard of memory yield up its grisly dead--then is the
+witching hour when the foul fiend within us can least tempt perhaps, but
+most torment.  at night we have one thing to hope for, one refuge to fly
+to--oblivion and sleep!  but at morning, sleep is over, and we are
+called upon coldly to review, and re-act, and live again the waking
+bitterness of self-reproach.  maltravers rose a penitent and unhappy
+man--remorse was new to him, and he felt as if he had committed a
+treacherous and fraudulent as well as guilty deed.  this poor girl,
+she was so innocent, so confiding, so unprotected, even by her own
+sense of right.  he went down-stairs listless and dispirited.  he
+longed yet dreaded to encounter alice.  he heard her step in the
+conservatory--paused, irresolute, and at length joined her.  for the
+first time she blushed and trembled, and her eyes shunned his.  but when
+he kissed her hand in silence, she whispered, "and am i now to leave
+you?"  and maltravers answered fervently, "never!" and then her face
+grew so radiant with joy that maltravers was comforted despite himself.
+alice knew no remorse, though she felt agitated and ashamed; as she had
+not comprehended the danger, neither was she aware of the fall.  in
+fact, she never thought of herself.  her whole soul was with him; she
+gave him back in love the spirit she had caught from him in knowledge.
+
+  *  *  *  *  *
+
+and they strolled together through the garden all that day, and
+maltravers grew reconciled to himself.  he had done wrong, it is true;
+but then perhaps alice had already suffered as much as she could in the
+world's opinion, by living with him alone, though innocent, so long.
+and now she had an everlasting claim to his protection--she should never
+know shame or want.  and the love that had led to the wrong should, by
+fidelity and devotion, take from it the character of sin.
+
+natural and commonplace sophistries!  /l'homme se pique!/ as old
+montaigne said; man is his own sharper!  the conscience is the most
+elastic material in the world.  to-day you cannot stretch it over a
+mole-hill, to-morrow it hides a mountain.
+
+o how happy they were now--that young pair!  how the days flew like
+dreams!  time went on, winter passed away, and the early spring, with
+its flowers and sunshine, was like a mirror to their own youth.  alice
+never accompanied maltravers in his walks abroad, partly because she
+feared to meet her father, and partly because maltravers himself was
+fastidiously averse to all publicity.  but then they had all that little
+world of three acres--lawn and fountain, shrubbery and terrace, to
+themselves, and alice never asked if there was any other world without.
+she was now quite a scholar, as mr. simcox himself averred.  she could
+read aloud and fluently to maltravers, and copied out his poetry in a
+small, fluctuating hand, and he had no longer to chase throughout his
+vocabulary for short saxon monosyllables to make the bridge of
+intercourse between their ideas.  eros and psyche are ever united, and
+love opens all the petals of the soul.  on one subject alone, maltravers
+was less eloquent than of yore.  he had not succeeded as a moralist, and
+he thought it hypocritical to preach what he did not practise.  but
+alice was gentler and purer, and as far as she knew, sweet fool! better
+than ever--she had invented a new prayer for herself; and she prayed as
+regularly and as fervently as if she were doing nothing amiss.  but the
+code of heaven is gentler than that of earth, and does not declare that
+ignorance excuseth not the crime.
+
+
+
+chapter viii.
+
+  "some clouds sweep on as vultures for their prey.
+
+  *  *  *  *  *
+
+   no azure more shall robe the firmament,
+   nor spangled stars be glorious."
+     byron, /heaven and earth/.
+
+it was a lovely evening in april, the weather was unusually mild and
+serene for the time of year, in the northern districts of our isle, and
+the bright drops of a recent shower sparkled upon the buds of the lilac
+and laburnum that clustered round the cottage of maltravers.  the little
+fountain that played in the centre of a circular basin, on whose clear
+surface the broad-leaved water-lily cast its fairy shadow, added to the
+fresh green of the lawn;
+
+  "and softe as velvet the yonge grass,"
+
+on which the rare and early flowers were closing their heavy lids.  that
+twilight shower had given a racy and vigorous sweetness to the air which
+stole over many a bank of violets, and slightly stirred the golden
+ringlets of alice as she sate by the side of her entranced and silent
+lover.  they were seated on a rustic bench just without the cottage, and
+the open window behind them admitted the view of that happy room--with
+its litter of books and musical instruments--eloquent of the poetry of
+home.
+
+maltravers was silent, for his flexile and excitable fancy was conjuring
+up a thousand shapes along the transparent air, or upon those shadowy
+violet banks.  he was not thinking, he was imagining.  his genius
+reposed dreamily upon the calm, but exquisite sense of his happiness.
+alice was not absolutely in his thoughts, but unconsciously she coloured
+them all--if she had left his side, the whole charm would have been
+broken.  but alice, who was not a poet or a genius, /was/ thinking, and
+thinking only of maltravers. . . . his image was "the broken mirror"
+multiplied in a thousand faithful fragments over everything fair and
+soft in that lovely microcosm before her.  but they were both alike in
+one thing--they were not with the future, they were sensible of the
+present--the sense of the actual life, the enjoyment of the breathing
+time was strong within them.  such is the privilege of the extremes of
+our existence--youth and age.  middle life is never with to-day, its
+home is in to-morrow . . . anxious, and scheming, and desiring, and
+wishing this plot ripened, and that hope fulfilled, while every wave of
+the forgotten time brings it nearer and nearer to the end of all things.
+half our life is consumed in longing to be nearer death.
+
+"alice," said maltravers, waking at last from his reverie, and drawing
+that light, childlike form nearer to him, "you enjoy this hour as much
+as i do."
+
+"oh, much more!"
+
+"more! and why so?"
+
+"because i am thinking of you, and perhaps you are not thinking of
+yourself."
+
+maltravers smiled and stroked those beautiful ringlets, and kissed that
+smooth, innocent forehead, and alice nestled herself in his breast.
+
+"how young you look by this light, alice!" said he, tenderly looking
+down.
+
+"would you love me less if i were old?" asked alice.
+
+"i suppose i should never have loved you in the same way if you had been
+old when i first saw you."
+
+"yet i am sure i should have felt the same for you if you had been--oh!
+ever so old!"
+
+"what, with wrinkled cheeks, and palsied head, and a brown wig, and no
+teeth, like mr. simcox?"
+
+"oh, but you could never be like that!  you would always look
+young--your heart would be always in your face.  that clear smile--ah,
+you would look beautiful to the last!"
+
+"but simcox, though not very lovely now, has been, i dare say, handsomer
+than i am, alice; and i shall be contented to look as well when i am as
+old!"
+
+"i should never know you were old, because i can see you just as i
+please.  sometimes, when you are thoughtful, your brows meet, and you
+look so stern that i tremble; but then i think of you when you last
+smiled, and look up again, and though you are frowning still, you seem
+to smile.  i am sure you are different to other eyes than to mine . . .
+and time must kill /me/ before, in my sight, it could alter /you/."
+
+"sweet alice, you talk eloquently, for you talk love."
+
+"my heart talks to you.  ah! i wish it could say all i felt.  i wish it
+could make poetry like you, or that words were music--i would never
+speak to you in anything else.  i was so delighted to learn music,
+because when i played i seemed to be talking to you.  i am sure that
+whoever invented music did it because he loved dearly and wanted to say
+so.  i said '/he/,' but i think it was a woman.  was it?"
+
+"the greeks i told you of, and whose life was music, thought it was a
+god."
+
+"ah, but you say the greeks made love a god.  were they wicked for it?"
+
+"our own god above is love," said ernest, seriously, "as our own poets
+have said and sung.  but it is a love of another nature--divine, not
+human.  come, we will go within, the air grows cold for you."
+
+they entered, his arm round her waist.  the room smiled upon them its
+quiet welcome; and alice, whose heart had not half vented its fulness,
+sat down to the instrument still to "talk love" in her own way.
+
+but it was saturday evening.  now every saturday, maltravers received
+from the neighbouring town the provincial newspaper--it was his only
+medium of communication with the great world.  but it was not for that
+communication that he always seized it with avidity, and fed on it with
+interest.  the county in which his father resided bordered on the shire
+in which ernest sojourned, and the paper included the news of that
+familiar district in its comprehensive columns.  it therefore satisfied
+ernest's conscience and soothed his filial anxieties to read from time
+to time that "mr. maltravers was entertaining a distinguished party of
+friends at his noble mansion of lisle court;" or that "mr. maltravers's
+foxhounds had met on such a day at something copse;" or that, "mr.
+maltravers, with his usual munificence, had subscribed twenty guineas to
+the new county gaol." . . . and as now maltravers saw the expected paper
+laid beside the hissing urn, he seized it eagerly, tore the envelope,
+and hastened to the well-known corner appropriated to the paternal
+district.  the very first words that struck his eye were these:
+
+
+     alarming illness of mr. maltravers.
+
+"we regret to state that this exemplary and distinguished gentleman was
+suddenly seized on wednesday night with a severe spasmodic affection.
+dr. ------ was immediately sent for, who pronounced it to be gout in the
+stomach.  the first medical assistance from london has been summoned.
+
+"postscript.--we have just learned, in answer to our inquiries at lisle
+court, that the respected owner is considerably worse: but slight hopes
+are entertained of his recovery.  captain maltravers, his eldest son and
+heir, is at lisle court.  an express has been despatched in search of
+mr. ernest maltravers, who, involved by his high english spirit in some
+dispute with the authorities of a despotic government, had suddenly
+disappeared from gottingen, where his extraordinary talents had highly
+distinguished him.  he is supposed to be staying at paris."
+
+
+the paper dropped on the floor.  ernest threw himself back on the chair,
+and covered his face with his hands.
+
+alice was beside him in a moment.  he looked up, and caught her wistful
+and terrified gaze.  "oh, alice!" he cried, bitterly, and almost pushing
+her away, "if you could but guess my remorse!"  then springing on his
+feet, he hurried from the room.
+
+presently the whole house was in commotion.  the gardener, who was
+always in the house about supper-time, flew to the town for post-horses.
+the old woman was in despair about the laundress, for her first and only
+thought was for "master's shirts."  ernest locked himself in his room.
+alice! poor alice!
+
+in little more than twenty minutes, the chaise was at the door: and
+ernest, pale as death, came into the room where he had left alice.
+
+she was seated on the floor, and the fatal paper was on her lap.  she
+had been endeavouring, in vain, to learn what had so sensibly affected
+maltravers, for, as i said before, she was unacquainted with his real
+name, and therefore the ominous paragraph did not even arrest her eye.
+
+he took the paper from her, for he wanted again and again to read it:
+some little word of hope or encouragement must have escaped him.  and
+then alice flung herself on his breast.  "do not weep," said he; "heaven
+knows i have sorrow enough of my own!  my father is dying!  so kind, so
+generous, so indulgent!  o god, forgive me!  compose yourself, alice.
+you will hear from me in a day or two."
+
+he kissed her, but the kiss was cold and forced.  he hurried away.  she
+heard the wheels grate on the pebbles.  she rushed to the window; but
+that beloved face was not visible.  maltravers had drawn the blinds, and
+thrown himself back to indulge his grief.  a moment more, and even the
+vehicle that bore him away was gone.  and before her were the flowers,
+and the starlit lawn, and the playful fountain, and the bench where they
+had sat in such heartfelt and serene delight.  he was gone; and often,
+oh, how often, did alice remember that his last words had been uttered
+in estranged tones--that his last embrace had been without love!
+
+
+
+chapter ix.
+
+       "thy due from me
+   is tears: and heavy sorrows of the blood,
+   which nature, love, and filial tenderness
+   shall, o dear father, pay thee plenteously!"
+     /second part of henry iv./, act iv. sc. 4.
+
+it was late at night when the chaise that bore maltravers stopped at the
+gates of a park lodge.  it seemed an age before the peasant within was
+aroused from the deep sleep of labour-loving health.  "my father," he
+cried, while the gate creaked on its hinges; "my father--is he better?
+is he alive?"
+
+"oh, bless your heart, master ernest, the squire was a little better
+this evening."
+
+"thank heaven!--on--on!"
+
+the horses smoked and galloped along a road that wound through venerable
+and ancient groves.  the moonlight slept soft upon the sward, and the
+cattle, disturbed from their sleep, rose lazily up, and gazed upon the
+unseasonable intruder.
+
+it is a wild and weird scene, one of those noble english parks at
+midnight, with its rough forest-ground broken into dell and valley, its
+never-innovated and mossy grass, overrun with fern, and its immemorial
+trees, that have looked upon the birth, and look yet upon the graves, of
+a hundred generations.  such spots are the last proud and melancholy
+trace of norman knighthood and old romance left to the laughing
+landscapes of cultivated england.  they always throw something of shadow
+and solemn gloom upon minds that feels their associations, like that
+which belongs to some ancient and holy edifice.  they are the cathedral
+aisles of nature with their darkened vistas, and columned trunks, and
+arches of mighty foliage.  but in ordinary times the gloom is pleasing,
+and more delightful than all the cheerful lawns and sunny slopes of the
+modern taste.  /now/ to maltravers it was ominous and oppressive: the
+darkness of death seemed brooding in every shadow, and its warning voice
+moaning in every breeze.
+
+the wheels stopped again.  lights flitted across the basement story; and
+one above, more dim than the rest, shone palely from the room in which
+the sick man slept.  the bell rang shrilly out from amidst the dark ivy
+that clung around the porch.  the heavy door swung back--maltravers was
+on the threshold.  his father lived--was better--was awake.  the son was
+in the father's arms.
+
+
+
+chapter x.
+
+       "the guardian oak
+   mourn'd o'er the roof it shelter'd: the thick air
+   labour'd with doleful sounds."
+     elliott of /sheffield/.
+
+many days had passed, and alice was still alone; but she had heard twice
+from maltravers.  the letters were short and hurried.  one time his
+father was better, and there were hopes; another time, and it was not
+expected that he could survive the week.  they were the first letters
+alice had ever received from him.  those /first/ letters are an event in
+a girl's life--in alice's life they were a very melancholy one.  ernest
+did not ask her to write to him; in fact, he felt, at such an hour, a
+repugnance to disclose his real name, and receive the letters of
+clandestine love in the house in which a father lay in death.  he might
+have given the feigned address he had previously assumed, at some
+distant post-town, where his person was not known.  but, then, to obtain
+such letters, he must quit his father's side for hours.  the thing was
+impossible.  these difficulties maltravers did not explain to alice.
+
+she thought it singular he did not wish to hear from her; but alice was
+humble.  what could she say worth troubling him with, and at such an
+hour?  but how kind in him to write! how precious those letters! and yet
+they disappointed her, and cost her floods of tears: they were so
+short--so full of sorrow--there was so little love in them; and "dear,"
+or even "/dearest/ alice," that uttered by the voice was so tender,
+looked cold upon the lifeless paper.  if she but knew the exact spot
+where he was it would be some comfort; but she only knew that he was
+away, and in grief; and though he was little more than thirty miles
+distant, she felt as if immeasurable space divided them.  however, she
+consoled herself as she could; and strove to shorten the long miserable
+day by playing over all the airs he liked, and reading all the passages
+he had commended.  she should be so improved when he returned; and how
+lovely the garden would look; for every day its trees and bouquets
+caught a new smile from the deepening spring.  oh, they would be so
+happy once more!  alice /now/ learned the life that lies in the future;
+and her young heart had not, as yet, been taught that of that future
+there is any prophet but hope!
+
+maltravers, on quitting the cottage, had forgotten that alice was
+without money, and now that he found his stay would be indefinitely
+prolonged, he sent a remittance.  several bills were unpaid--some
+portion of the rent was due; and alice, as she was desired, intrusted
+the old servant with a bank note, with which she was to discharge these
+petty debts.  one evening, as she brought alice the surplus, the good
+dame seemed greatly discomposed.  she was pale and agitated; or, as she
+expressed it, "had a terrible fit of the shakes."
+
+"what is the matter, mrs. jones? you have no news of him--of--of my--of
+your master?"
+
+"dear heart, miss--no," answered mrs. jones; "how should i?  but i'm
+sure i don't wish to frighten you; there has been two sich robberies in
+the neighbourhood!"
+
+"oh, thank heaven that's all!" exclaimed alice.
+
+"oh, don't go for to thank heaven for that, miss; it's a shocking thing
+for two lone females like us, and them 'ere windows all open to the
+ground!  you sees, as i was taking the note to be changed at mr.
+harris's, the great grocer's shop, where all the poor folk was a-buying
+agin to-morrow" (for it was saturday night, the second saturday after
+ernest's departure; from that hegira alice dated all her chronology),
+"and everybody was a-talking about the robberies last night.  la, miss,
+they bound old betty--you know betty--a most respectable 'oman, who has
+known sorrows, and drinks tea with me once a week.  well, miss, they
+(only think!) bound betty to the bedpost, with nothing on her but her
+shift--poor old soul!  and as mr. harris gave me the change (please to
+see, miss, it's all right), and i asked for half gould, miss, it's more
+convenient, sich an ill-looking fellow was by me, a-buying o' baccy, and
+he did so stare at the money, that i vows i thought he'd have rin away
+with it from the counter; so i grabbled it up and went away.  but, would
+you believe, miss, just as i got into the lane, afore you turns through
+the gate, i chanced to look back, and there, sure enough, was that ugly
+fellow close behind, a-running like mad.  oh, i set up such a screetch;
+and young dobbins was a-taking his cow out of the field, and he perked
+up over the hedge when he heard me; and the cow, too, with her horns,
+lord bless her!  so the fellow stopped, and i bustled through the gate,
+and got home.  but la, miss, if we are all robbed and murdered?"
+
+alice had not heard much of this harangue; but what she did hear very
+slightly affected her strong, peasant-born nerves; not half so much
+indeed, as the noise mrs. jones made in double-locking all the doors,
+and barring, as well as a peg and a rusty inch of chain would allow, all
+the windows--which operation occupied at least an hour and a half.
+
+all at last was still.  mrs. jones had gone to bed--in the arms of sleep
+she had forgotten her terrors--and alice had crept up-stairs, and
+undressed, and said her prayers, and wept a little; and, with the tears
+yet moist upon her dark eyelashes, had glided into dreams of ernest.
+midnight was passed--the stroke of one sounded unheard from the clock at
+the foot of the stars.  the moon was gone--a slow, drizzling rain was
+falling upon the flowers, and cloud and darkness gathered fast and thick
+around the sky.
+
+about this time, a low, regular, grating sound commenced at the thin
+shutters of the sitting-room below, preceded by a very faint noise, like
+the tinkling of small fragments of glass on the gravel without.  at
+length it ceased, and the cautious and partial gleam of a lanthorn fell
+along the floor; another moment, and two men stood in the room.
+
+"hush, jack!" whispered one: "hang out the glim, and let's look about
+us."
+
+the dark-lanthorn, now fairly unmuffled, presented to the gaze of the
+robbers nothing that could gratify their cupidity.
+
+books and music, chairs, tables, carpet, and fire-irons, though valuable
+enough in a house-agent's inventory, are worthless to the eyes of a
+housebreaker.  they muttered a mutual curse.
+
+"jack," said the former speaker, "we must make a dash at the spoons and
+forks, and then hey for the money.  the old girl had thirty shiners,
+besides flimsies."
+
+the accomplice nodded consent; the lanthorn was again partially shaded,
+and with noiseless and stealthy steps the men quitted the apartment.
+several minutes elapsed, when alice was awakened from her slumber by a
+loud scream she started, all was again silent: she must have dreamt it:
+her little heart beat violently at first, but gradually regained its
+tenor.  she rose, however, and the kindness of her nature being more
+susceptible than her fear, she imagined mrs. jones might be ill--she
+would go to her.  with this idea she began partially dressing herself,
+when she distinctly heard heavy footsteps and a strange voice in the
+room beyond.  she was now thoroughly alarmed--her first impulse was to
+escape from the house--her next to bolt the door, and call aloud for
+assistance.  but who would hear her cries?  between the two purposes,
+she halted irresolute . . . and remained, pale and trembling, seated at
+the foot of the bed, when a broad light streamed through the chinks of
+the door--an instant more, and a rude hand seized her.
+
+"come, mem, don't be fritted, we won't harm you; but where's the
+gold-dust--where's the money?--the old girl says you've got it.  fork it
+over."
+
+"o mercy, mercy!  john walters, is that you?"
+
+"damnation!" muttered the man, staggering back; "so you knows me then;
+but you sha'n't peach; you sha'n't scrag me, b---t you."
+
+while he spoke, he again seized alice, held her forcibly down with one
+hand, while with the other he deliberately drew from a side pouch a long
+case-knife.  in that moment of deadly peril, the second ruffian, who had
+been hitherto delayed in securing the servant, rushed forward.  he had
+heard the exclamation of alice, he heard the threat of his comrade; he
+darted to the bedside, cast a hurried gaze upon alice, and hurled the
+intended murderer to the other side of the room.
+
+"what, man, art mad?" he growled between his teeth.  "don't you know
+her?  it is alice;--it is my daughter."
+
+alice had sprung up when released from the murderer's knife, and now,
+with eyes strained and starting with horror, gazed upon the dark and
+evil face of her deliverer.
+
+"o god, it is--it is my father!" she muttered, and fell senseless.
+
+"daughter or no daughter," said john walters, "i shall not put my scrag
+in her power; recollect how she fritted us before, when she run away."
+
+darvil stood thoughtful and perplexed; and his associate approached
+doggedly with a look of such settled ferocity as it was impossible for
+even darvil to contemplate without a shudder.
+
+"you say right," muttered the father, after a pause, but fixing his
+strong gripe on his comrade's shoulder,--"the girl must not be left
+here--the cart has a covering.  we are leaving the country; i have a
+right to my daughter--she shall go with us.  there, man, grab the
+money--it's on the table; . . . . you've got the spoons.  now then--" as
+darvil spoke he seized his daughter in his arms; threw over her a shawl
+and a cloak that lay at hand, and was already on the threshold.
+
+"i don't half like it," said walters, grumblingly--"it been't safe."
+
+"at least it is as safe as murder!" answered darvil, turning round, with
+a ghastly grin.  "make haste."
+
+when alice recovered her senses, the dawn was breaking slowly along
+desolate and sullen hills.  she was lying upon rough straw--the cart was
+jolting over the ruts of a precipitous, lonely road,--and by her side
+scowled the face of that dreadful father.
+
+
+
+chapter xi.
+
+  "yet he beholds her with the eyes of mind--
+   he sees the form which he no more shall meet;
+   she like a passionate thought is come and gone,
+   while at his feet the bright rill bubbles on."
+     elliott /of sheffield/.
+
+it was a little more than three weeks after that fearful night, when the
+chaise of maltravers stopped at the cottage door--the windows were shut
+up; no one answered the repeated summons of the post-boy.  maltravers
+himself, alarmed and amazed, descended from the vehicle: he was in deep
+mourning.  he went impatiently to the back entrance; that also was
+locked; round to the french windows of the drawing-room, always hitherto
+half-opened, even in the frosty days of winter,--they were now closed
+like the rest.  he shouted in terror, "alice, alice!"--no sweet voice
+answered in breathless joy, no fairy step bounded forward in welcome.
+at this moment, however, appeared the form of the gardener coming across
+the lawn.  the tale was soon told; the house had been robbed--the old
+woman at morning found gagged and fastened to her bed-post--alice flown.
+a magistrate had been applied to,--suspicion fell upon the fugitive.
+none knew anything of her origin or name, not even the old woman.
+maltravers had naturally and sedulously ordained alice to preserve that
+secret, and she was too much in fear of being detected and claimed by
+her father not to obey the injunction with scrupulous caution.  but it
+was known, at least, that she had entered the house a poor peasant girl;
+and what more common than for ladies of a certain description to run
+away from their lover, and take some of his property by mistake?  and a
+poor girl like alice, what else could be expected?  the magistrate
+smiled, and the constables laughed.  after all, it was a good joke at
+the young gentleman's expense!  perhaps, as they had no orders from
+maltravers, and they did not know where to find him, and thought he
+would be little inclined to prosecute, the search was not very rigorous.
+but two houses had been robbed the night before.  their owners were more
+on the alert.  suspicion fell upon a man of infamous character, john
+walters; he had disappeared from the place.  he had been last seen with
+an idle, drunken fellow, who was said to have known better days, and who
+at one time had been a skilful and well-paid mechanic, till his habits
+of theft and drunkenness threw him out of employ; and he had been since
+accused of connection with a gang of coiners--tried--and escaped from
+want of sufficient evidence against him.  that man was luke darvil.  his
+cottage was searched; but he also had fled.  the trace of cart-wheels by
+the gate of maltravers gave a faint clue to pursuit; and after an active
+search of some days, persons answering to the description of the
+suspected burglars--with a young female in their company--were tracked
+to a small inn, notorious as a resort for smugglers, by the sea-coast.
+but there every vestige of their supposed whereabouts disappeared.
+
+and all this was told to the stunned maltravers; the garrulity of the
+gardener precluded the necessity of his own inquiries, and the name of
+darvil explained to him all that was dark to others.  and alice was
+suspected of the basest and the blackest guilt!  obscure, beloved,
+protected as she had been, she could not escape the calumny from which
+he had hoped everlastingly to shield her.  but did /he/ share that
+hateful thought?  maltravers was too generous and too enlightened.
+
+"dog!" said he, grinding his teeth, and clenching his hands, at the
+startled menial, "dare to utter a syllable of suspicion against her, and
+i will trample the breath out of your body!"
+
+the old woman, who had vowed that for the 'varsal world she would not
+stay in the house after such a "night of shakes," had now learned the
+news of her master's return, and came hobbling up to him.  she arrived
+in time to hear his menace to her fellow-servant.
+
+"ah, that's right; give it him, your honour; bless your good
+heart!--that's what i says.  miss rob the house! says i--miss run away.
+oh no--depend on it they have murdered her and buried the body."
+
+maltravers gasped for breath, but without uttering another word he
+re-entered the chaise and drove to the house of the magistrate.  he
+found that functionary a worthy and intelligent man of the world.  to
+him he confided the secret of alice's birth and his own.  the magistrate
+concurred with him in believing that alice had been discovered and
+removed by her father.  new search was made--gold was lavished.
+maltravers himself headed the search in person.  but all came to the
+same result as before, save that by the descriptions he heard of the
+person--the dress--the tears, of the young female who had accompanied
+the men supposed to be darvil and walters, he was satisfied that alice
+yet lived; he hoped she might yet escape and return.  in that hope he
+lingered for weeks--for months, in the neighbourhood; but time passed
+and no tidings. . . . he was forced at length to quit a neighbourhood at
+once so saddened and endeared.  but he secured a friend in the
+magistrate, who promised to communicate with him if alice returned, or
+her father was discovered.  he enriched mrs. jones for life, in
+gratitude for her vindication of his lost and early love; he promised
+the amplest rewards for the smallest clue.  and with a crushed and
+desponding spirit, he obeyed at last the repeated and anxious summons of
+the guardian to whose care, until his majority was attained, the young
+orphan was now entrusted.
+
+
+
+chapter xii.
+
+  "sure there are poets that did never dream
+   upon parnassus."--denham.
+
+  "walk sober off, before a sprightlier age
+   come tittering on, and shove you from the stage."--pope.
+
+  "hence to repose your trust in me was wise."
+     dryden's /absalom and achitophel/.
+
+mr. frederick cleveland, a younger son of the earl of byrneham, and
+therefore entitled to the style and distinction of "honourable," was the
+guardian of ernest maltravers.  he was now about the age of forty-three;
+a man of letters and a man of fashion, if the last half-obsolete
+expression be permitted to us, as being at least more classical and
+definite than any other which modern euphuism has invented to convey the
+same meaning.  highly educated, and with natural abilities considerably
+above mediocrity, mr. cleveland early in life had glowed with the
+ambition of an author. . . . he had written well and gracefully--but his
+success, though respectable, did not satisfy his aspirations.  the fact
+is, that a new school of literature ruled the public, despite the
+critics--a school very different from that in which mr. cleveland formed
+his unimpassioned and polished periods.  and as that old earl, who in
+the time of charles the first was the reigning wit of the court, in the
+time of charles the second was considered too dull even for a butt, so
+every age has its own literary stamp and coinage, and consigns the old
+circulation to its shelves and cabinets as neglected curiosities.
+cleveland could not become the fashion with the public as an author,
+though the coteries cried him up and the reviewers adored him--and the
+ladies of quality and the amateur dilettanti bought and bound his
+volumes of careful poetry and cadenced prose.  but cleveland had high
+birth and a handsome competence--his manners were delightful, his
+conversation fluent--and his disposition was as amiable as his mind was
+cultured.  he became, therefore, a man greatly sought after in society
+both respected and beloved.  if he had not genius, he had great good
+sense; he did not vex his urbane temper and kindly heart with walking
+after a vain shadow, and disquieting himself in vain.  satisfied with an
+honourable and unenvied reputation, he gave up the dream of that higher
+fame which he clearly saw was denied to his aspirations--and maintained
+his good-humour with the world, though in his secret soul he thought it
+was very wrong in its literary caprices.  cleveland never married: he
+lived partly in town, but principally at temple grove, a villa not far
+from richmond.  here, with an excellent library, beautiful grounds, and
+a circle of attached and admiring friends, which comprised all the more
+refined and intellectual members of what is termed, by emphasis, /good
+society/--this accomplished and elegant person passed a life perhaps
+much happier than he would have known had his young visions been
+fulfilled, and it had become his stormy fate to lead the rebellious and
+fierce democracy of letters.
+
+cleveland was indeed, if not a man of high and original genius, at least
+very superior to the generality of patrician authors.  in retiring,
+himself, from frequent exercise in the arena, he gave up his mind with
+renewed zest to the thoughts and masterpieces of others.  from a
+well-read man, he became a deeply instructed one.  metaphysics, and some
+of the material sciences, added new treasures to information more light
+and miscellaneous, and contributed to impart weight and dignity to a
+mind that might otherwise have become somewhat effeminate and frivolous.
+his social habits, his clear sense, and benevolence of judgment, made
+him also an exquisite judge of all those indefinable nothings, or little
+things, that, formed into a total, become knowledge of the great world.
+i say the great world--for of the world without the circle of the great,
+cleveland naturally knew but little.  but of all that related to that
+subtle orbit in which gentlemen and ladies move in elevated and ethereal
+order, cleveland was a profound philosopher.  it was the mode with many
+of his admirers to style him the horace walpole of the day.  but though
+in some of the more external and superficial points of character they
+were alike, cleveland had considerably less cleverness, and infinitely
+more heart.
+
+the late mr. maltravers, a man not indeed of literary habits but an
+admirer of those who were--an elegant, high-bred, hospitable /seigneur
+de province/--had been one of the earliest of cleveland's
+friends--cleveland had been his fag at eton--and he found hal
+maltravers--(handsome hal!) had become the darling of the clubs, when he
+made his own /debut/ in society.  they were inseparable for a season or
+two--and when mr. maltravers married, and enamoured of country pursuits,
+proud of his old hall, and sensibly enough conceiving that he was a
+greater man in his own broad lands than in the republican aristocracy of
+london, settled peaceably at lisle court, cleveland corresponded with
+him regularly, and visited him twice a year.  mrs. maltravers died in
+giving birth to ernest, her second son.  her husband loved her tenderly,
+and was long inconsolable for her loss.  he could not bear the sight of
+the child that had cost him so dear a sacrifice.  cleveland and his
+sister, lady julia danvers, were residing with him at the time of this
+melancholy event; and with judicious and delicate kindness, lady julia
+proposed to place the unconscious offender amongst her own children for
+some months.  the proposition was accepted, and it was two years before
+the infant ernest was restored to the paternal mansion.  during the
+greater part of that time, he had gone through all the events and
+revolutions of baby life under the bachelor roof of frederick cleveland.
+
+the result of this was, that the latter loved the child like a father.
+ernest's first intelligible word hailed cleveland as "papa;" and when
+the urchin was at length deposited at lisle court, cleveland talked all
+the nurses out of breath with admonitions, and cautions, and
+injunctions, and promises, and threats, which might have put many a
+careful mother to the blush.  this circumstance formed a new tie between
+cleveland and his friend.  cleveland's visits were now three times a
+year instead of twice.  nothing was done for ernest without cleveland's
+advice.  he was not even breeched till cleveland gave his grave consent.
+cleveland chose his school, and took him to it,--and he spent a week of
+every vacation in cleveland's house.  the boy never got into a scrape,
+or won a prize, or wanted /a tip/, or coveted a book, but what cleveland
+was the first to know of it.  fortunately, too, ernest manifested by
+times tastes which the graceful author thought similar to his own.  he
+early developed very remarkable talents, and a love for learning--though
+these were accompanied with a vigour of life and soul--an energy--a
+daring--which gave cleveland some uneasiness, and which did not appear
+to him at all congenial with the moody shyness of an embryo genius, or
+the regular placidity of a precocious scholar.  meanwhile the relation
+between father and son was rather a singular one.  mr. maltravers had
+overcome his first, not unnatural, repugnance to the innocent cause of
+his irremediable loss.  he was now fond and proud of his boy--as he was
+of all things that belonged to him.  he spoiled and petted him even more
+than cleveland did.  but he interfered very little with his education or
+pursuits.  his eldest son, cuthbert, did not engross all his heart, but
+occupied all his care.  with cuthbert he connected the heritage of his
+ancient name, and the succession of his ancestral estates.  cuthbert was
+not a genius, nor intended to be one; he was to be an accomplished
+gentleman, and a great proprietor.  the father understood cuthbert, and
+could see clearly both his character and career.  he had no scruple in
+managing his education, and forming his growing mind.  but ernest
+puzzled him.  mr. maltravers was even a little embarrassed in the boy's
+society; he never quite overcame that feeling of strangeness towards him
+which he had experienced when he first received him back from cleveland,
+and took cleveland's directions about his health and so forth.  it
+always seemed to him as if his friend shared his right to the child; and
+he thought it a sort of presumption to scold ernest, though he very
+often swore at cuthbert.  as the younger son grew up, it certainly was
+evident that cleveland did understand him better than his own father
+did; and so, as i have before said, on cleveland the father was not
+displeased passively to shift the responsibility of the rearing.
+
+perhaps mr. maltravers might not have been so indifferent, had ernest's
+prospects been those of a younger son in general.  if a profession had
+been necessary for him, mr. maltravers would have been naturally anxious
+to see him duly fitted for it.  but from a maternal relation ernest
+inherited an estate of about four thousand pounds a year; and he was
+thus made independent of his father.  this loosened another tie between
+them; and so by degrees mr. maltravers learned to consider ernest less
+as his own son, to be advised or rebuked, praised or controlled, than as
+a very affectionate, promising, engaging boy, who, somehow or other,
+without any trouble on his part, was very likely to do great credit to
+his family, and indulge his eccentricities upon four thousand pounds a
+year.  the first time that mr. maltravers was seriously perplexed about
+him was when the boy, at the age of sixteen, having taught himself
+german, and intoxicated his wild fancies with /werter/ and /the
+robbers/, announced his desire, which sounded very like a demand, of
+going to gottingen instead of to oxford.  never were mr. maltravers's
+notions of a proper and gentlemanlike finish to education more
+completely and rudely assaulted.  he stammered out a negative, and
+hurried to his study to write a long letter to cleveland, who, himself
+an oxford prize-man, would, he was persuaded, see the matter in the same
+light.  cleveland answered the letter in person: listened in silence to
+all the father had to say, and then strolled through the park with the
+young man.  the result of the latter conference was, that cleveland
+declared in favour of ernest.
+
+"but, my dear frederick," said the astonished father, "i thought the boy
+was to carry off all the prizes at oxford?"
+
+"i carried off some, maltravers; but i don't see what good they did me."
+
+"oh, cleveland!"
+
+"i am serious."
+
+"but it is such a very odd fancy."
+
+"your son is a very odd young man."
+
+"i fear he is so--i fear he is, poor fellow!  but what will he learn at
+gottingen?"
+
+"languages and independence," said cleveland.
+
+"and the classics--the classics--you are such an excellent grecian!"
+
+"there are great grecians in germany," answered cleveland; "and ernest
+cannot well unlearn what he knows already.  my dear maltravers, the boy
+is not like most clever young men.  he must either go through action,
+and adventure, and excitement in his own way, or he will be an idle
+dreamer, or an impracticable enthusiast all his life.  let him
+alone.--so cuthbert is gone into the guards?"
+
+"but he went first to oxford."
+
+"humph!  what a fine young man he is!"
+
+"not so tall as ernest, but--"
+
+"a handsome face," said cleveland.  "he is a son to be proud of in one
+way, as i hope ernest will be in another.  will you show me your new
+hunter?"
+
+  *  *  *  *  *
+
+it was to the house of this gentleman, so judiciously made his guardian,
+that the student of gottingen now took his melancholy way.
+
+
+
+chapter xiii.
+
+  "but if a little exercise you choose,
+     some zest for ease, 'tis not forbidden here;
+   amid the groves you may indulge the muse,
+     or tend the blooms and deck the vernal year."
+          /castle of indolence/.
+
+the house of mr. cleveland was an italian villa adapted to an english
+climate.  through an ionic arch you entered a domain of some eighty or a
+hundred acres in extent, but so well planted and so artfully disposed,
+that you could not have supposed the unseen boundaries inclosed no
+ampler a space.  the road wound through the greenest sward, in which
+trees of venerable growth were relieved by a profusion of shrubs, and
+flowers gathered into baskets intertwined with creepers, or blooming
+from classic vases, placed with a tasteful care in such spots as
+required the /filling up/, and harmonised well with the object chosen.
+not an old ivy-grown pollard, not a modest and bending willow, but was
+brought out, as it were, into a peculiar feature by the art of the
+owner.  without being overloaded, or too minutely elaborate (the common
+fault of the rich man's villa), the whole place seemed one diversified
+and cultivated garden; even the air almost took a different odour from
+different vegetation, with each winding of the road;  and the colours of
+the flowers and foliage varied with every view.
+
+at length, when, on a lawn sloping towards a glassy lake overhung by
+limes and chestnuts, and backed by a hanging wood, the house itself came
+in sight, the whole prospect seemed suddenly to receive its finishing
+and crowning feature.  the house was long and low.  a deep peristyle
+that supported the roof extended the whole length, and being raised
+above the basement had the appearance of a covered terrace; broad
+flights of steps, with massive balustrades, supporting vases of aloes
+and orange-trees, led to the lawn; and under the peristyle were ranged
+statues, roman antiquities and rare exotics.  on this side the lake
+another terrace, very broad, and adorned, at long intervals, with urns
+and sculpture, contrasted the shadowy and sloping bank beyond; and
+commanded, through unexpected openings in the trees, extensive views of
+the distant landscape, with the stately thames winding through the
+midst.  the interior of the house corresponded with the taste without.
+all the principal rooms, even those appropriated to sleep, were on the
+same floor.  a small but lofty and octagonal hall conducted to a suite
+of four rooms.  at one extremity was a moderately-sized dining-room with
+a ceiling copied from the rich and gay colours of guido's "hours;" and
+landscapes painted by cleveland himself, with no despicable skill, were
+let into the walls.  a single piece of sculpture copied from the piping
+faun, and tinged with a flesh-like glow by purple and orange draperies
+behind it, relieved without darkening the broad and arched window which
+formed its niche.  this communicated with a small picture-room, not
+indeed rich with those immortal gems for which princes are candidates;
+for cleveland's fortune was but that of a private gentleman, though,
+managed with a discreet if liberal economy, it sufficed for all his
+elegant desires.  but the pictures had an interest beyond that of art,
+and their subjects were within the reach of a collector of ordinary
+opulence.  they made a series of portraits--some originals, some copies
+(and the copies were often the best) of cleveland's favourite authors.
+and it was characteristic of the man, that pope's worn and thoughtful
+countenance looked down from the central place of honour.  appropriately
+enough, this room led into the library, the largest room in the house,
+the only one indeed that was noticeable from its size, as well as its
+embellishments.  it was nearly sixty feet in length.  the bookcases were
+crowned with bronze busts, while at intervals statues, placed in open
+arches, backed with mirrors, gave the appearance of galleries, opening
+from the book-lined walls, and introduced an inconceivable air of
+classic lightness and repose into the apartment; with these arches the
+windows harmonised so well, opening on the peristyle, and bringing into
+delightful view the sculpture, the flowers, the terraces, and the lake
+without, that the actual prospects half seduced you into the belief that
+they were designs by some master-hand of the poetical gardens that yet
+crown the hills of rome.  even the colouring of the prospects on a sunny
+day favoured the delusion, owing to the deep, rich hues of the simple
+draperies, and the stained glass of which the upper panes of the windows
+were composed.  cleveland was especially fond of sculpture; he was
+sensible, too, of the mighty impulse which that art has received in
+europe within the last half century.  he was even capable of asserting
+the doctrine, not yet sufficiently acknowledged in this country, that
+flaxman surpassed canova.  he loved sculpture, too, not only for its own
+beauty, but for the beautifying and intellectual effect that it produces
+wherever it is admitted.  it is a great mistake, he was wont to say, in
+collectors of statues, to arrange them /pele mele/ in one long
+monotonous gallery.  the single relief, or statue, or bust, or simple
+urn, introduced appropriately in the smallest apartment we inhabit,
+charms us infinitely more than those gigantic museums, crowded into
+rooms never entered but for show, and without a chill, uncomfortable
+shiver.  besides, this practice of galleries, which the herd consider
+orthodox, places sculpture out of the patronage of the public.  there
+are not a dozen people who can afford galleries.  but very moderately
+affluent gentlemen can afford a statue or a bust.  the influence, too,
+upon a man's mind and taste, created by the constant and habitual view
+of monuments of the only imperishable art which resorts to physical
+materials, is unspeakable.  looking upon the greek marble, we become
+acquainted, almost insensibly, with the character of the greek life and
+literature.  that aristides, that genius of death, that fragment of the
+unrivalled psyche, are worth a thousand scaligers!
+
+"do you ever look at the latin translation when you read aeschylus?"
+said a schoolboy once to cleveland.
+
+"that is my latin translation," said cleveland, pointing to the laocoon.
+
+the library opened at the extreme end to a small cabinet for curiosities
+and medals, which, still in a straight line, conducted to a long
+belvidere, terminating in a little circular summer-house, that, by a
+sudden wind of the lake below, hung perpendicularly over its transparent
+tide, and, seen from the distance, appeared almost suspended on air, so
+light were its slender columns and arching dome.  another door from the
+library opened upon a corridor which conducted to the principal
+sleeping-chambers; the nearest door was that of cleveland's private
+study communicating with his bedroom and dressing-closet.  the other
+rooms were appropriated to, and named after, his several friends.
+
+mr. cleveland had been advised by a hasty line of the movements of his
+ward, and he received the young man with a smile of welcome, though his
+eyes were moist and his lips trembled--for the boy was like his
+father!--a new generation had commenced for cleveland!
+
+"welcome, my dear ernest," said he; "i am so glad to see you, that i
+will not scold you for your mysterious absence.  this is your room, you
+see your name over the door; it is a larger one than you used to have,
+for you are a man now; and there is your german sanctum adjoining--for
+schiller and the meerschaum!--a bad habit that, the meerschaum! but not
+worse than the schiller, perhaps.  you see you are in the peristyle
+immediately.  the meerschaum is good for flowers, i fancy, so have no
+scruple.  why, my dear boy, how pale you are!  be cheered--be cheered.
+well, i must go myself, or you will infect me."
+
+cleveland hurried away; he thought of his lost friend.  ernest sank upon
+the first chair, and buried his face in his hands.  cleveland's valet
+entered, and bustled about and unpacked the portmanteau, and arranged
+the evening dress.  but ernest did not look up nor speak; the first bell
+sounded; the second tolled unheard upon his ear.  he was thoroughly
+overcome by his emotions.  the first notes of cleveland's kind voice had
+touched upon a soft chord, that months of anxiety and excitement had
+strained to anguish, but had never woke to tears.  his nerves were
+shattered--those strong young nerves!  he thought of his dead father
+when he first saw cleveland; but when he glanced round the room prepared
+for him, and observed the care for his comfort, and the tender
+recollection of his most trifling peculiarities everywhere visible,
+alice, the watchful, the humble, the loving, the lost alice rose before
+him.  surprised at his ward's delay, cleveland entered the room; there
+sat ernest still, his face buried in his hands.  cleveland drew them
+gently away, and maltravers sobbed like an infant.  it was an easy
+matter to bring tears to the eyes of that young man: a generous or a
+tender thought, an old song, the simplest air of music, sufficed for
+that touch of the mother's nature.  but the vehement and awful passion
+which belongs to manhood when thoroughly unmanned--this was the first
+time in which the relief of that stormy bitterness was known to him!
+
+
+
+chapter xiv.
+
+  "musing full sadly in his sullen mind."--spenser.
+
+  "there forth issued from under the altar-smoke
+   a dreadful fiend."--/ibid. on superstition/.
+
+nine times out of ten it is over the bridge of sighs that we pass the
+narrow gulf from youth to manhood.  that interval is usually occupied by
+an ill-placed or disappointed affection.  we recover, and we find
+ourselves a new being.  the intellect has been hardened by the fire
+through which it has passed.  the mind profits by the wrecks of every
+passion, and we may measure our road to wisdom by the sorrows we have
+undergone.
+
+but maltravers was yet on the bridge, and, for a time, both mind and
+body were prostrate and enfeebled.  cleveland had the sagacity to
+discover that the affections had their share in the change that he
+grieved to witness, but he had also the delicacy not to force himself
+into the young man's confidence.  but by little and little his kindness
+so completely penetrated the heart of his ward, that ernest one evening
+told his whole tale.  as a man of the world, cleveland perhaps rejoiced
+that it was no worse, for he had feared some existing entanglement
+perhaps with a married woman.  but as a man who was better than the
+world in general, he sympathised with the unfortunate girl whom ernest
+pictured to him in faithful and unflattered colours, and he long forbore
+consolations which he foresaw would be unavailing.  he felt, indeed,
+that ernest was not a man "to betray the noon of manhood to a
+myrtle-shade:"--that with so sanguine, buoyant, and hardy a temperament,
+he would at length recover from a depression which, if it could bequeath
+a warning, might as well not be wholly divested of remorse.  and he also
+knew that few become either great authors or great men (and he fancied
+ernest was born to be one or the other) without the fierce emotions and
+passionate struggles, through which the wilhelm meister of real life
+must work out his apprenticeship, and attain the master rank.  but at
+last he had serious misgivings about the health of his ward.  a constant
+and spectral gloom seemed bearing the young man to the grave.  it was in
+vain that cleveland, who secretly desired him to thirst for a public
+career, endeavoured to arouse his ambition--the boy's spirit seemed
+quite broken--and the visit of a political character, the mention of a
+political work, drove him at once into his solitary chamber.  at length
+his mental disease took a new turn.  he became, of a sudden, most
+morbidly and fanatically--i was about to say religious: but that is not
+the word; let me call it pseudo-religious.  his strong sense and
+cultivated taste did not allow him to delight in the raving tracts of
+illiterate fanatics--and yet out of the benign and simple elements of
+the scripture he conjured up for himself a fanaticism quite as gloomy
+and intense.  he lost sight of god the father, and night and day dreamed
+only of god the avenger.  his vivid imagination was perverted to raise
+out of its own abyss phantoms of colossal terror.  he shuddered aghast
+at his own creations, and earth and heaven alike seemed black with the
+everlasting wrath.  these symptoms completely baffled and perplexed
+cleveland.  he knew not what remedy to administer--and to his
+unspeakable grief and surprise he found that ernest, in the true spirit
+of his strange bigotry, began to regard cleveland--the amiable, the
+benevolent cleveland--as one no less out of the pale of grace than
+himself.  his elegant pursuits, his cheerful studies, were considered by
+the young but stern enthusiast as the miserable recreations of mammon
+and the world.  there seemed every probability that ernest maltravers
+would die in a madhouse or, at best, succeed to the delusions without
+the cheerful intervals of cowper.
+
+
+
+chapter xv.
+
+  "sagacious, bold, and turbulent of wit,
+   restless--unfixed in principles and place."--dryden.
+
+  "whoever acquires a very great number of ideas interesting to
+   the society in which he lives, will be regarded in that society
+   as a man of abilities."--helvetius.
+
+it was just when ernest maltravers was so bad that he could not be worse
+that a young man visited temple grove.  the name of this young man was
+lumley ferrers, his age was about twenty-six, his fortune about eight
+hundred a year--he followed no profession.  lumley ferrers had not what
+is usually called genius; that is, he had no enthusiasm; and if the word
+talent be properly interpreted as meaning the talent of doing something
+better than others, ferrers had not much to boast of on that score.  he
+had no talent for writing, nor for music, nor painting, nor the ordinary
+round of accomplishments; neither at present had he displayed much of
+the hard and useful talent for action and business.  but ferrers had
+what is often better than either genius or talent; he had a powerful and
+most acute mind.
+
+he had, moreover, great animation of manner, high physical spirits, a
+witty, odd, racy vein of conversation, determined assurance, and
+profound confidence in his own resources.  he was fond of schemes,
+stratagems, and plots--they amused and excited him--his power of
+sarcasm, and of argument, too, was great, and he usually obtained an
+astonishing influence over those with whom he was brought in contact.
+his high spirits and a most happy frankness of bearing carried off and
+disguised his leading vices of character, which were callousness to
+whatever was affectionate and insensibility to whatever was moral.
+though less learned than maltravers, he was on the whole a very
+instructed man.  he mastered the surfaces of many sciences, became
+satisfied of their general principles, and threw the study aside never
+to be forgotten (for his memory was like a vice), but never to be
+prosecuted any further.  to this he added a general acquaintance with
+whatever is most generally acknowledged as standard in ancient or modern
+literature.  what is admired only by a few, lumley never took the
+trouble to read.  living amongst trifles, he made them interesting and
+novel by his mode of viewing and treating them.  and here indeed was /a/
+talent--it was the talent of social life--the talent of enjoyment to the
+utmost with the least degree of trouble to himself.  lumley ferrers was
+thus exactly one of those men whom everybody calls exceedingly clever,
+and yet it would puzzle one to say in what he was so clever.  it was,
+indeed, that nameless power which belongs to ability, and which makes
+one man superior, on the whole, to another, though in many details by no
+means remarkable.  i think it is goethe who says somewhere that, in
+reading the life of the greatest genius, we always find that he was
+acquainted with some men superior to himself, who yet never attained to
+general distinction.  to the class of these mystical superior men lumley
+ferrers might have belonged; for though an ordinary journalist would
+have beaten him in the arts of composition, few men of genius, however
+eminent, could have felt themselves above ferrers in the ready grasp and
+plastic vigour of natural intellect.  it only remains to be said of this
+singular young man, whose character as yet was but half developed, that
+he had seen a great deal of the world, and could live at ease and in
+content with all tempers and ranks; fox-hunters or scholars, lawyers or
+poets, patricians or /parvenus/, it was all one to lumley ferrers.
+
+ernest was, as usual, in his own room, when he heard, along the corridor
+without, all that indefinable bustling noise which announces an arrival.
+next came a most ringing laugh, and then a sharp, clear, vigorous voice,
+that ran through his ears like a dagger.  ernest was immediately aroused
+to all the majesty of indignant sullenness.  he walked out on the
+terrace of the portico, to avoid the repetition of the disturbance: and
+once more settled back into his broken and hypochondriacal reveries.
+pacing to and fro that part of the peristyle which occupied the more
+retired wing of the house, with his arms folded, his eyes downcast, his
+brows knit, and all the angel darkened on that countenance which
+formerly looked as if, like truth, it could shame the devil and defy the
+world, ernest followed the evil thought that mastered him, through the
+valley of the shadow.  suddenly he was aware of something--some obstacle
+which he had not previously encountered.  he started, and saw before him
+a young man, of plain dress, gentlemanlike appearance, and striking
+countenance.
+
+"mr. maltravers, i think," said the stranger, and ernest recognised the
+voice that had so disturbed him: "this is lucky; we can now introduce
+ourselves, for i find cleveland means us to be intimate.  mr. lumley
+ferrers, mr. ernest maltravers.  there now, i am the elder, so i first
+offer my hand, and grin properly.  people always grin when they make a
+new acquaintance!  well, that's settled.  which way are you walking?"
+
+maltravers could, when he chose it, be as stately as if he had never
+been out of england.  he now drew himself up in displeased astonishment;
+extricated his hand from the gripe of ferrers, and saying, very coldly,
+"excuse me, sir, i am busy," stalked back to his chamber.  he threw
+himself into his chair, and was presently forgetful of his late
+annoyance, when, to his inexpressible amazement and wrath, he heard
+again the sharp, clear voice close at his elbow.
+
+ferrers had followed him through the french casement into the room.
+"you are busy, you say, my dear fellow.  i want to write some letters:
+we sha'n't interrupt each other--don't disturb yourself:" and ferrers
+seated himself at the writing-table, dipped a pen into the ink, arranged
+blotting-book and paper before him in due order, and was soon employed
+in covering page after page with the most rapid and hieroglyphical
+scrawl that ever engrossed a mistress or perplexed a dun.
+
+"the presuming puppy!" growled maltravers, half audibly, but effectually
+roused from himself; and examining with some curiosity so cool an
+intruder, he was forced to own that the countenance of ferrers was not
+that of a puppy.
+
+a forehead compact and solid as a block of granite, overhung small,
+bright, intelligent eyes of a light hazel; the features were handsome,
+yet rather too sharp and fox-like; the complexion, though not highly
+coloured, was of that hardy, healthy hue which generally betokens a
+robust constitution, and high animal spirits; the jaw was massive, and,
+to a physiognomist, betokened firmness and strength of character; but
+the lips, full and large, were those of a sensualist, and their restless
+play, an habitual half smile, spoke of gaiety and humour, though when in
+repose there was in them something furtive and sinister.
+
+maltravers looked at him in grave silence; but when ferrers, concluding
+his fourth letter before another man would have got through his first
+page, threw down the pen, and looked full at maltravers, with a
+good-humoured but penetrating stare, there was something so whimsical in
+the intruder's expression of face, and indeed in the whole scene, that
+maltravers bit his lip to restrain a smile, the first he had known for
+weeks.
+
+"i see you read, maltravers," said ferrers, carelessly turning over the
+volumes on the table.  "all very right: we should begin life with books;
+they multiply the sources of employment; so does capital;--but capital
+is of no use, unless we live on the interest,--books are waste paper,
+unless we spend in action the wisdom we get from thought. action,
+maltravers, action; that is the life for us.  at our age we have
+passion, fancy, sentiment; we can't read them away, or scribble them
+away;--we must live upon them generously, but economically."
+
+maltravers was struck; the intruder was not the empty bore he had chosen
+to fancy him.  he roused himself languidly to reply.  "life, /mr./
+ferrers--"
+
+"stop, /mon cher/, stop; don't call me mister; we are to be friends; i
+hate delaying that which /must be/, even by a superfluous dissyllable;
+you are maltravers, i am ferrers. but you were going to talk about life.
+suppose we /live/ a little while, instead of talking about it?  it wants
+an hour to dinner; let us stroll into the grounds; i want to get an
+appetite;--besides, i like nature when there are no swiss mountains to
+climb before one can arrive at a prospect.  /allons/!"
+
+"excuse--" again began maltravers, half interested, half annoyed.
+
+"i'll be shot if i do.  come."
+
+ferrers gave maltravers his hat, wound his arm into that of his new
+acquaintance, and they were on the broad terrace by the lake before
+ernest was aware of it.
+
+how animated, how eccentric, how easy was ferrers' talk (for talk it
+was, rather than conversation, since he had the ball to himself); books,
+and men, and things; he tossed them about and played with them like
+shuttlecocks; and then his egotistical narrative of half a hundred
+adventures, in which he had been the hero, told so, that you laughed at
+him and laughed with him.
+
+
+
+chapter xvi.
+
+  "now the bright morning star, day's harbinger,
+   comes dancing from the east."--milton.
+
+hitherto ernest had never met with any mind that had exercised a strong
+influence over his own.  at home, at school, at gottingen, everywhere,
+he had been the brilliant and wayward leader of others, persuading or
+commanding wiser and older heads than his own: even cleveland always
+yielded to him, though not aware of it.  in fact, it seldom happens that
+we are very strongly influenced by those much older than ourselves.  it
+is the senior, of from two to ten years, that most seduces and enthrals
+us.  he has the same pursuits--views, objects, pleasures, but more art
+and experience in them all.  he goes with us in the path we are ordained
+to tread, but from which the elder generation desires to warn us off.
+there is very little influence where there is not great sympathy. it was
+now an epoch in the intellectual life of maltravers.  he met for the
+first time with a mind that controlled his own.  perhaps the physical
+state of his nerves made him less able to cope with the half-bullying,
+but thoroughly good-humoured imperiousness of ferrers.  every day this
+stranger became more and more potential with maltravers.  ferrers, who
+was an utter egotist, never asked his new friend to give him his
+confidence; he never cared three straws about other people's secrets,
+unless useful to some purpose of his own.  but he talked with so much
+zest about himself--about women and pleasure, and the gay, stirring life
+of cities--that the young spirit of maltravers was roused from its dark
+lethargy without an effort of its own.  the gloomy phantoms vanished
+gradually--his sense broke from its cloud--he felt once more that god
+had given the sun to light the day, and even in the midst of darkness
+had called up the host of stars.
+
+perhaps no other person could have succeeded so speedily in curing
+maltravers of his diseased enthusiasm: a crude or sarcastic unbeliever
+he would not have listened to; a moderate and enlightened divine he
+would have disregarded, as a worldly and cunning adjuster of laws
+celestial with customs earthly.  but lumley ferrers, who, when he
+argued, never admitted a sentiment or a simile in reply, who wielded his
+plain iron logic like a hammer, which, though its metal seemed dull,
+kindled the ethereal spark with every stroke--lumley ferrers was just
+the man to resist the imagination, and convince the reason, of
+maltravers; and the moment the matter came to argument, the cure was
+soon completed: for, however we may darken and puzzle ourselves with
+fancies and visions, and the ingenuities of fanatical mysticism, no man
+can mathematically or syllogistically contend that the world which a god
+made, and a saviour visited, was designed to be damned.
+
+and ernest maltravers one night softly stole to his room and opened the
+new testament, and read its heavenly moralities with purged eyes; and
+when he had done, he fell upon his knees, and prayed the almighty to
+pardon the ungrateful heart that, worse than the atheist's, had
+confessed his existence, but denied his goodness.  his sleep was sweet
+and his dreams were cheerful.  did he rise to find that the penitence
+which had shaken his reason would henceforth suffice to save his life
+from all error?  alas! remorse overstrained has too often reactions as
+dangerous; and homely luther says well, that "the mind, like the drunken
+peasant on horseback, when propped on the one side, nods and falls on
+the other."--all that can be said is, that there are certain crises in
+life which leave us long weaker; from which the system recovers with
+frequent revulsion and weary relapse,--but from which, looking back,
+after years have passed on, we date the foundation of strength or the
+cure of disease.  it is not to mean souls that creation is darkened by a
+fear of the anger of heaven.
+
+
+
+chapter xvii.
+
+  "there are times when we are diverted out of errors, but could
+   not be preached out of them.--there are practitioners who can cure
+   us of one disorder, though, in ordinary cases, they be but poor
+   physicians--nay, dangerous quacks."-stephen montague.
+
+lumley ferrers had one rule in life; and it was this: to make all things
+and all persons subservient to himself.  and ferrers now intended to go
+abroad for some years.  he wanted a companion, for he disliked solitude:
+besides, a companion shared the expenses; and a man of eight hundred a
+year, who desires all the luxuries of life, does not despise a partner
+in the taxes to be paid for them.  ferrers, at this period, rather liked
+ernest than not: it was convenient to choose friends from those richer
+than himself, and he resolved, when he first came to temple grove, that
+ernest should be his travelling companion.  this resolution formed, it
+was very easy to execute it.
+
+maltravers was now warmly attached to his new friend, and eager for
+change.  cleveland was sorry to part with him; but he dreaded a relapse,
+if the young man were again left upon his hands.  accordingly, the
+guardian's consent was obtained; a travelling carriage was bought, and
+fitted up with every imaginable imperial and /malle/.  a swiss (half
+valet and half courier) was engaged, one thousand a year was allowed to
+maltravers;--and one soft and lovely morning, towards the close of
+october, ferrers and maltravers found themselves midway on the road to
+dover.
+
+"how glad i am to get out of england," said ferrers: "it is a famous
+country for the rich; but here, eight hundred a year, without a
+profession, save that of pleasure, goes upon pepper and salt; it is a
+luxurious competence abroad."
+
+"i think i have heard cleveland say that you will be rich some day or
+other."
+
+"o yes: i have what are called expectations!  you must know that i have
+a kind of settlement on two stools, the well-born and the wealthy; but
+between two stools--you recollect the proverb!  the present lord
+saxingham, once plain frank lascelles, and my father, mr. ferrers, were
+first cousins.  two or three relations good-naturedly died, and frank
+lascelles became an earl; the lands did not go with the coronet; he was
+poor, and married an heiress.  the lady died; her estate was settled on
+her only child, the handsomest little girl you ever saw.  pretty
+florence, i often wish i could look up to you!  her fortune will be
+nearly all at her own disposal, too, when she comes of age; now she is
+in the nursery, 'eating bread and honey.'  my father, less lucky and
+less wise than his cousin, thought fit to marry a miss templeton--a
+nobody.  the saxingham branch of the family politely dropped the
+acquaintance.  now, my mother had a brother, a clever, plodding fellow,
+in what is called 'business:' he became richer and richer: but my father
+and mother died, and were never the better for it.  and i came of age,
+and /worth/ (i like that expression) not a farthing more or less than
+this often-quoted eight hundred pounds a year.  my rich uncle is
+married, but has no children.  i am, therefore, heir-presumptive,--but
+he is a saint, and close, though ostentatious.  the quarrel between
+uncle templeton and the saxinghams still continues.  templeton is angry
+if i see the saxinghams and the saxinghams--my lord, at least--is by no
+means so sure that i shall be templeton's heir as not to feel a doubt
+lest i should some day or other sponge upon his lordship for a place.
+lord saxingham is in the administration, you know.  somehow or other i
+have an equivocal amphibious kind of place in london society, which i
+don't like; on one side i am a patrician connection, whom the /parvenu/
+branches always incline lovingly to--and on the other side i am a
+half-dependent cadet, whom the noble relations look civilly shy at.
+some day, when i grow tired of travel and idleness, i shall come back
+and wrestle with these little difficulties, conciliate my methodistical
+uncle, and grapple with my noble cousin.  but now i am fit for something
+better than getting on in the world.  dry chips, not green wood, are the
+things for making a blaze!  how slow this fellow drives!  hollo, you
+sir! get on! mind, twelve miles to the hour!  you shall have sixpence a
+mile.  give me your purse, maltravers; i may as well be cashier, being
+the elder and the wiser man; we can settle accounts at the end of the
+journey.  by jove, what a pretty girl!"
+
+
+
+
