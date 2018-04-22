@@ -1,0 +1,8 @@
+Scikit Sklearn Python 
+Java
+Xampp Server
+Visual Studio Code
+Sublime Text
+Jetbrains Pycharm
+Microsoft Excel/Google Sheets
+Microsoft Word/Google Docs
